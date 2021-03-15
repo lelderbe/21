@@ -17,16 +17,16 @@ school21-checklists https://github.com/secondfry/school21-checklists
 examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 
-## Проекты и ресурсы по ним
+# Проекты и ресурсы по ним
 
-**get_next_line**
+## get_next_line
 
 https://github.com/Mazoise/42TESTERS-GNL
 
 https://github.com/charMstr/GNL_lover
 
 
-**ft_printf**
+## ft_printf
 
 https://github.com/gavinfielder/pft
 
@@ -37,7 +37,7 @@ https://github.com/charMstr/printf_lover_v2
 https://github.com/cacharle/ft_printf_test
 
 
-**ft_server**
+## ft_server
 
 Основы Docker. Большой практический выпуск https://www.youtube.com/watch?v=QF4ZF857m44
 
@@ -45,7 +45,7 @@ Docker самый простой и понятный туториал. Изуч�
 
 Get started with Docker Machine and a local VM https://eternalhost.net/blog/razrabotka/chto-takoe-docker
 
-**cub3d**
+## cub3d
 
 42 Docs MiniLibX https://harm-smits.github.io/42docs/libs/minilibx
 
