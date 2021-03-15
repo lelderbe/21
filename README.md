@@ -83,6 +83,17 @@ ONLINE IMAGE COLOR PICKER https://pinetools.com/image-color-picker
 
 Без спойлеров: https://www.notion.so/LibASM-eaf6e4370032461398127c5f41d12279
 
+x86 Assembly Crash Course https://www.youtube.com/watch?v=75gBFiFtAb8
+
+NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
+
+NASM doc https://www.nasm.us/xdoc/2.15.05/nasmdoc.pdf
+
+x86_64 NASM Assembly Quick Reference ("Cheat Sheet") https://www.cs.uaf.edu/2017/fall/cs301/reference/x86_64.html
+
+x86 Assembly Guide https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+
+
 
 
 
