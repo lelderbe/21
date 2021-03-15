@@ -93,6 +93,8 @@ ONLINE IMAGE COLOR PICKER https://pinetools.com/image-color-picker
 
 Памятка: https://www.notion.so/LibASM-ddd4ac8ffb834c19a9e85ee1b1ca685b#78266914c2614a29897ed769b8a35b59
 
+MacOS syscalls (0x2000000 + код из таблицы): https://opensource.apple.com/source/xnu/xnu-1504.3.12/bsd/kern/syscalls.master
+
 x86 Assembly Crash Course https://www.youtube.com/watch?v=75gBFiFtAb8
 
 NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
