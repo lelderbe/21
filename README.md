@@ -6,13 +6,9 @@ Last Of Olds http://jcorwin.ru/
 
 FAQ Школы 21 для новичков и не очень https://github.com/daniiomir/faq_for_school_21
 
-#coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
-
 amatilda's memory_leaks_manual https://github.com/daniiomir/faq_for_school_21/blob/master/docs/memory_leaks_amatilda.pdf
 
 GNU make https://www.gnu.org/software/make/manual/make.html
-
-school21-checklists https://github.com/secondfry/school21-checklists
 
 42-exam-rank-02 https://github.com/Glagan/42-exam-rank-02
 
@@ -22,6 +18,10 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 
 # Проекты и ресурсы по ним
+
+Без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
+
+Чеклисты: school21-checklists https://github.com/secondfry/school21-checklists
 
 ## get_next_line
 
