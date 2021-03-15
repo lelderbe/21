@@ -6,7 +6,11 @@ Last Of Olds http://jcorwin.ru/
 
 FAQ Школы 21 для новичков и не очень https://github.com/daniiomir/faq_for_school_21
 
+#coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
+
 amatilda's memory_leaks_manual https://github.com/daniiomir/faq_for_school_21/blob/master/docs/memory_leaks_amatilda.pdf
+
+GNU make https://www.gnu.org/software/make/manual/make.html
 
 school21-checklists https://github.com/secondfry/school21-checklists
 
@@ -21,12 +25,16 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 ## get_next_line
 
+Без спойлеров: https://www.notion.so/get_next_line-59fb1381311b4867b4cfaeec5b94c193
+
 https://github.com/Mazoise/42TESTERS-GNL
 
 https://github.com/charMstr/GNL_lover
 
 
 ## ft_printf
+
+Без спойлеров: https://www.notion.so/ft_printf-3e358ed673d14164b88de9eb428f3c6a
 
 https://github.com/gavinfielder/pft
 
@@ -47,9 +55,13 @@ Get started with Docker Machine and a local VM https://eternalhost.net/blog/razr
 
 ## cub3d
 
+Без спойлеров: https://www.notion.so/Cub3D-fd79729951a84906807af2b252f1d0bc
+
 42 Docs MiniLibX https://harm-smits.github.io/42docs/libs/minilibx
 
 wolf3d https://github.com/qst0/ft_libgfx#wolf3d
+
+Game engine BLACK BOOK Wolfenstein 3D https://disk.yandex.ru/i/6CfkIoCfjahmtg
 
 MiniLibX - Simple Graphical Interface Library for students https://qst0.github.io/ft_libgfx/man_mlx.html
 
@@ -66,6 +78,10 @@ For Coderz - RAYCASTING - сделай себе немного DOOM'a. Алго�
 Рейкастинг для самых маленьких https://proglib.io/p/raycasting-for-the-smallest
 
 ONLINE IMAGE COLOR PICKER https://pinetools.com/image-color-picker
+
+## libasm
+
+Без спойлеров: https://www.notion.so/LibASM-eaf6e4370032461398127c5f41d12279
 
 
 
