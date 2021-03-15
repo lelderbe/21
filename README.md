@@ -43,5 +43,28 @@ Docker самый простой и понятный туториал. Изуч�
 
 Get started with Docker Machine and a local VM https://eternalhost.net/blog/razrabotka/chto-takoe-docker
 
+**cub3d**
+
+42 Docs MiniLibX https://harm-smits.github.io/42docs/libs/minilibx
+
+wolf3d https://github.com/qst0/ft_libgfx#wolf3d
+
+MiniLibX - Simple Graphical Interface Library for students https://qst0.github.io/ft_libgfx/man_mlx.html
+
+Зачем нужны синусы и косинусы? https://www.youtube.com/watch?v=hwpWTkdh-BA
+
+Bits to Bitmaps: A simple walkthrough of BMP Image Format https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393
+
+Raycasting engine rendering creating slight distortion increasing towards edges of screen https://stackoverflow.com/a/24206301
+
+Как сделать 3D Игру на Python с Нуля [ Pygame ] https://www.youtube.com/watch?v=SmKBsArp2dI&list=PLzuEVvwBnAsZGeSVhOXpnW-ULsGYpNyQe
+
+For Coderz - RAYCASTING - сделай себе немного DOOM'a. Алгоритм трассировки 3D лабиринта как в игре WOLF. https://zxpress.ru/article.php?id=8482
+
+Рейкастинг для самых маленьких https://proglib.io/p/raycasting-for-the-smallest
+
+ONLINE IMAGE COLOR PICKER https://pinetools.com/image-color-picker
+
+
 
 
