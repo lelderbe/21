@@ -2,6 +2,8 @@
 
 Moulinette https://moulinette.msk.21-school.ru/
 
+Last Of Olds http://jcorwin.ru/
+
 FAQ Школы 21 для новичков и не очень https://github.com/daniiomir/faq_for_school_21
 
 amatilda's memory_leaks_manual https://github.com/daniiomir/faq_for_school_21/blob/master/docs/memory_leaks_amatilda.pdf
