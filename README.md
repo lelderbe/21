@@ -57,7 +57,7 @@ MiniLibX - Simple Graphical Interface Library for students https://qst0.github.i
 
 Bits to Bitmaps: A simple walkthrough of BMP Image Format https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393
 
-Raycasting engine rendering creating slight distortion increasing towards edges of screen https://stackoverflow.com/a/24206301
+Raycasting engine rendering creating slight distortion increasing towards edges of screen (выравниваем стены) https://stackoverflow.com/a/24206301
 
 Как сделать 3D Игру на Python с Нуля [ Pygame ] https://www.youtube.com/watch?v=SmKBsArp2dI&list=PLzuEVvwBnAsZGeSVhOXpnW-ULsGYpNyQe
 
