@@ -95,6 +95,9 @@ ONLINE IMAGE COLOR PICKER https://pinetools.com/image-color-picker
 
 MacOS syscalls (0x2000000 + код из таблицы): https://opensource.apple.com/source/xnu/xnu-1504.3.12/bsd/kern/syscalls.master
 
+_ _ _error errno explanation: http://www.za.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/x86-return-values.html
+
+
 x86 Assembly Crash Course https://www.youtube.com/watch?v=75gBFiFtAb8
 
 NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
