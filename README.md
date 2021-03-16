@@ -97,6 +97,7 @@ MacOS syscalls (0x2000000 + код из таблицы): https://opensource.appl
 
 _ _ _error errno explanation: http://www.za.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/x86-return-values.html
 
+System call error handling http://osr600doc.xinuos.com/en/SDK_sysprog/SCL_SysCallErrHdl.html
 
 x86 Assembly Crash Course (вводное видео) https://www.youtube.com/watch?v=75gBFiFtAb8
 
