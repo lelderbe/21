@@ -98,7 +98,7 @@ MacOS syscalls (0x2000000 + код из таблицы): https://opensource.appl
 _ _ _error errno explanation: http://www.za.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/x86-return-values.html
 
 
-x86 Assembly Crash Course https://www.youtube.com/watch?v=75gBFiFtAb8
+x86 Assembly Crash Course (вводное видео) https://www.youtube.com/watch?v=75gBFiFtAb8
 
 NASM Tutorial https://cs.lmu.edu/~ray/notes/nasmtutorial/
 
