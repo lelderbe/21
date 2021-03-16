@@ -123,6 +123,6 @@ Debug: lldb + Voltron https://github.com/snare/voltron
     ~/.zshenv
     export PATH="/Users/lelderbe/Library/Python/3.7/bin:$PATH"
 
-
+Чекер: https://github.com/cacharle/libasm_test (нужен python3: brew install python3)
 
 
