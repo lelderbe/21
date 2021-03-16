@@ -117,9 +117,9 @@ Debug: lldb + Voltron https://github.com/snare/voltron
     n               ; next instruction
     
     в другом окне:
-    voltron view d
-    voltron view r
-    etc
+    voltron view d  ; show code
+    voltron view r  ; show registers
+    etc..
     
     ~/.zshenv
     export PATH="/Users/lelderbe/Library/Python/3.7/bin:$PATH"
