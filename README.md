@@ -110,5 +110,16 @@ x86 Assembly Guide https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
 Debug: lldb + Voltron https://github.com/snare/voltron
 
+    $ lldb a.out
+    r               ; run
+    b _ft_strlen    ; set breakpoint to function
+    n               ; next instruction
+    
+    в другом окне:
+    voltron view d
+    voltron view r
+    etc
+
+
 
 
