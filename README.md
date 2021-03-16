@@ -119,6 +119,9 @@ Debug: lldb + Voltron https://github.com/snare/voltron
     voltron view d
     voltron view r
     etc
+    
+    ~/.zshenv
+    export PATH="/Users/lelderbe/Library/Python/3.7/bin:$PATH"
 
 
 
