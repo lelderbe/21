@@ -108,7 +108,7 @@ x86_64 NASM Assembly Quick Reference ("Cheat Sheet") https://www.cs.uaf.edu/2017
 
 x86 Assembly Guide https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
-
+Debug: lldb + Voltron https://github.com/snare/voltron
 
 
 
