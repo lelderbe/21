@@ -27,6 +27,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
 
+Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
+
 ## libasm
 
     В 64-битных программах первые шесть аргументов передаются через регистры: rdi, rsi, rdx, rcx, r8, r9.
