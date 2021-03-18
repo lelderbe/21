@@ -29,6 +29,19 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
+    // move .minikube to /goinfre
+    export MINIKUBE_HOME='/goinfre/lelderbe'
+    echo "export MINIKUBE_HOME='/goinfre/lelderbe'" >> ~/.zshrc
+    
+    brew install minikube
+    minukube version
+    
+    kubectl version
+    kubectl cluster-info
+    kubectl get nodes
+
+
+
 ## libasm
 
     В 64-битных программах первые шесть аргументов передаются через регистры: rdi, rsi, rdx, rcx, r8, r9.
