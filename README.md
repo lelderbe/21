@@ -29,6 +29,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
+Minikube HOME folder https://stackoverflow.com/questions/45947551/minikube-home-folder
+
     // move .minikube to /goinfre
     export MINIKUBE_HOME='/goinfre/lelderbe'
     echo "export MINIKUBE_HOME='/goinfre/lelderbe'" >> ~/.zshrc
