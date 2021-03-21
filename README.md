@@ -31,6 +31,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Minikube HOME folder https://stackoverflow.com/questions/45947551/minikube-home-folder
 
+Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
+
     // move .minikube to /goinfre
     export MINIKUBE_HOME='/goinfre/lelderbe'
     echo "export MINIKUBE_HOME='/goinfre/lelderbe'" >> ~/.zshrc
