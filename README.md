@@ -33,9 +33,11 @@ Minikube HOME folder https://stackoverflow.com/questions/45947551/minikube-home-
 
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
 
+    Если ошибки с DNS в VirtualBox - использовать alpine:3.12
+    
     // move .minikube to /goinfre
-    export MINIKUBE_HOME='/goinfre/lelderbe'
-    echo "export MINIKUBE_HOME='/goinfre/lelderbe'" >> ~/.zshrc
+    export MINIKUBE_HOME='/goinfre/'$USER
+    echo "export MINIKUBE_HOME='/goinfre/'$USER" >> ~/.zshrc
     
     brew install minikube
     minukube version
