@@ -48,7 +48,7 @@ Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/do
 
 #mysql
 
-    > SHOW VARIABLES LIKE 'skip_networking'
+    > SHOW VARIABLES LIKE 'skip_networking';
     should be OFF for network connections
 
 
