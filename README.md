@@ -46,6 +46,10 @@ Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/do
     kubectl cluster-info
     kubectl get nodes
 
+#mysql
+
+    > SHOW VARIABLES LIKE 'skip_networking'
+    should be OFF for network connections
 
 
 ## libasm
