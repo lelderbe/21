@@ -31,9 +31,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
 
-Minikube HOME folder https://stackoverflow.com/questions/45947551/minikube-home-folder
+Настройка Minikube HOME folder: https://stackoverflow.com/questions/45947551/minikube-home-folder
 
-Minikube lives here: https://github.com/kubernetes/minikube
+Minikube lives here (просто для инфо): https://github.com/kubernetes/minikube
 
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
 
