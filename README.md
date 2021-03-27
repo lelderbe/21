@@ -36,6 +36,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
 
+    Информация о кластере:
+    kubectl cluster-info
+
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
 Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
