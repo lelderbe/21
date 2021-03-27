@@ -25,6 +25,15 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 ## ft_services
 
+    Самый простой и быстрый путь к полностью функционирующему кластеру
+    Kubernetes – использовать инструмент Minikube. Minikube – это инструмент,
+    который настраивает одноузловой кластер. Такой кластер отлично подходит
+    как для тестирования системы Kubernetes, так и для разработки приложений
+    локально.
+    
+    Minikube запускает Kubernetes внутри виртуальной машины, запущенной через VirtualBox,
+    поэтому, прежде чем вы сможете запустить кластер Minikube, вам также нужно установить VirtualBox.
+
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
