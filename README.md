@@ -29,7 +29,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
-Kubernetes в действии: https://disk.yandex.ru/i/d2oWpYUiDCCi-w
+Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
 
 Minikube HOME folder https://stackoverflow.com/questions/45947551/minikube-home-folder
 
