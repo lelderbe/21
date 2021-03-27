@@ -33,11 +33,14 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
     
     Minikube запускает Kubernetes внутри виртуальной машины, запущенной через VirtualBox,
     поэтому, прежде чем вы сможете запустить кластер Minikube, вам также нужно установить VirtualBox.
+    
+    Взаимодействие с кластером через: kubectl.
 
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
 
-    Информация о кластере:
-    kubectl cluster-info
+    kubectl cluster-info                // информация о кластере
+    kubectl get nodes                   // общая информация о нодах
+    kubectl describe node minikube      // подробная информация о конкретной ноде
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
