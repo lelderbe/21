@@ -41,6 +41,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
     kubectl cluster-info                // информация о кластере
     kubectl get nodes                   // общая информация о нодах
     kubectl describe node minikube      // подробная информация о конкретной ноде
+    kubectl get all                     // информация сразу по подам/сервисам/деплоям
+    kubectl delete deployment <name>    // удалить развёртывание (по аналогии - и остальное)
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
