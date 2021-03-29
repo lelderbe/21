@@ -43,6 +43,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
     kubectl describe node minikube      // подробная информация о конкретной ноде
     kubectl get all                     // информация сразу по подам/сервисам/деплоям
     kubectl delete deployment <name>    // удалить развёртывание (по аналогии - и остальное)
+    kubectl exec -it <pod> -- sh        // зайти внутрь пода через консоль
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
