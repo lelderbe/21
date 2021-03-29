@@ -38,16 +38,6 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
 
-    kubectl cluster-info                // информация о кластере
-    kubectl get nodes                   // общая информация о нодах
-    kubectl describe node minikube      // подробная информация о конкретной ноде
-    kubectl get all                     // информация сразу по подам/сервисам/деплоям
-    kubectl delete deployment <name>    // удалить развёртывание (по аналогии - и остальное)
-    kubectl exec -it <pod> -- sh        // зайти внутрь пода через консоль
-    
-    //Volumes
-    kubectl get pv                      // get PersistentVolumes
-
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
 Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
@@ -67,9 +57,16 @@ Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/do
     brew install minikube
     minukube version
     
-    kubectl version
-    kubectl cluster-info
-    kubectl get nodes
+    kubectl version                     // are you there?
+    kubectl cluster-info                // информация о кластере
+    kubectl get nodes                   // общая информация о нодах
+    kubectl describe node minikube      // подробная информация о конкретной ноде
+    kubectl get all                     // информация сразу по подам/сервисам/деплоям
+    kubectl delete deployment <name>    // удалить развёртывание (по аналогии - и остальное)
+    kubectl exec -it <pod> -- sh        // зайти внутрь пода через консоль
+    
+    //Volumes
+    kubectl get pv                      // get PersistentVolumes
 
 #mysql
 
