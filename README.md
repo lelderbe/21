@@ -48,6 +48,8 @@ Kubernetes в действии (книга на русском): https://disk.ya
 
 Minikube documentation: https://minikube.sigs.k8s.io/docs/
 
+42Docs: https://harm-smits.github.io/42docs/projects/ft_services
+
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
 
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
