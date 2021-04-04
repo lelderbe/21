@@ -62,6 +62,8 @@ Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/do
 
 Run multiple services in a container: https://docs.docker.com/config/containers/multi-service_container/
 
+Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]: https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana
+
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
     
     // move .minikube to /goinfre
