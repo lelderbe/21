@@ -38,17 +38,25 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
 
+🔥 От Докера к K8s: https://m.habr.com/ru/company/ruvds/blog/438982/ https://m.habr.com/ru/company/ruvds/blog/438984/
+
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
 Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
 
 Настройка Minikube HOME folder: https://stackoverflow.com/questions/45947551/minikube-home-folder
 
+Зачем eval $(minikube docker-env): https://stackoverflow.com/questions/42564058/how-to-use-local-docker-images-with-minikube
+
 Чат в ТГ: https://t.me/joinchat/VgygI_iu76nosxxn
 
 Minikube documentation: https://minikube.sigs.k8s.io/docs/
 
 42Docs: https://harm-smits.github.io/42docs/projects/ft_services
+
+Путеводитель по Kubernetes для детей. В картинках: https://www.itsumma.ru/press/kinder-kubernetes
+
+A visual guide on troubleshooting Kubernetes deployments: https://learnk8s.io/troubleshooting-deployments
 
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
 
