@@ -58,6 +58,7 @@ Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/do
     
     brew install minikube
     minukube version
+    minikube addons list
     
     kubectl version                     // are you there?
     kubectl cluster-info                // информация о кластере
@@ -68,7 +69,8 @@ Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/do
     kubectl exec -it <pod> -- sh        // зайти внутрь пода через консоль
     
     //Volumes
-    kubectl get pv                      // get PersistentVolumes
+    kubectl get pv                      // show PersistentVolumes (не актуально для minikube)
+    kubectl get pvc                     // show PersistentVolumeClaims 
 
 #mysql
 
