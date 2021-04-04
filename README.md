@@ -44,6 +44,8 @@ Kubernetes в действии (книга на русском): https://disk.ya
 
 Настройка Minikube HOME folder: https://stackoverflow.com/questions/45947551/minikube-home-folder
 
+Чат в ТГ: https://t.me/joinchat/VgygI_iu76nosxxn
+
 Minikube lives here (просто для инфо): https://github.com/kubernetes/minikube
 
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
@@ -120,6 +122,10 @@ Debug: lldb + Voltron https://github.com/snare/voltron
     export PATH="/Users/lelderbe/Library/Python/3.7/bin:$PATH"
 
 Чекер: https://github.com/cacharle/libasm_test (нужен python3: brew install python3)
+
+42Docs: https://harm-smits.github.io/42docs/projects/libasm.html
+
+Чат ТГ: https://t.me/joinchat/SLHcFZEh4lZMKPi0
 
 ## cub3d
 
