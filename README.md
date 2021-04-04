@@ -40,7 +40,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 🔥 От Докера к K8s: https://m.habr.com/ru/company/ruvds/blog/438982/ https://m.habr.com/ru/company/ruvds/blog/438984/
 
-Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
+Что такое Kubernetes (оф.сайт): https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
 🔥 Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
 
