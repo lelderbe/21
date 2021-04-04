@@ -181,6 +181,8 @@ Get started with Docker Machine and a local VM https://eternalhost.net/blog/razr
 
 Без спойлеров: https://www.notion.so/ft_printf-3e358ed673d14164b88de9eb428f3c6a
 
+Тесты:
+
 https://github.com/gavinfielder/pft
 
 https://github.com/Mazoise/42TESTERS-PRINTF
@@ -192,6 +194,8 @@ https://github.com/cacharle/ft_printf_test
 ## get_next_line
 
 Без спойлеров: https://www.notion.so/get_next_line-59fb1381311b4867b4cfaeec5b94c193
+
+тесты:
 
 https://github.com/Mazoise/42TESTERS-GNL
 
