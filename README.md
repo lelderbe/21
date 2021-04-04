@@ -60,6 +60,8 @@ A visual guide on troubleshooting Kubernetes deployments: https://habr.com/ru/co
 
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
 
+Run multiple services in a container: https://docs.docker.com/config/containers/multi-service_container/
+
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
     
     // move .minikube to /goinfre
