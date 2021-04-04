@@ -187,6 +187,8 @@ Docker самый простой и понятный туториал. Изуч�
 
 Get started with Docker Machine and a local VM https://eternalhost.net/blog/razrabotka/chto-takoe-docker
 
+Docker Tutorial For Beginners: https://www.youtube.com/watch?v=o5af1LBgAFw&ab_channel=Simplilearn
+
 ## ft_printf
 
 Без спойлеров: https://www.notion.so/ft_printf-3e358ed673d14164b88de9eb428f3c6a
@@ -205,7 +207,7 @@ https://github.com/cacharle/ft_printf_test
 
 Без спойлеров: https://www.notion.so/get_next_line-59fb1381311b4867b4cfaeec5b94c193
 
-тесты:
+Тесты:
 
 https://github.com/Mazoise/42TESTERS-GNL
 
