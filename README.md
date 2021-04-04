@@ -56,7 +56,7 @@ Minikube documentation: https://minikube.sigs.k8s.io/docs/
 
 Путеводитель по Kubernetes для детей. В картинках: https://www.itsumma.ru/press/kinder-kubernetes
 
-A visual guide on troubleshooting Kubernetes deployments: https://learnk8s.io/troubleshooting-deployments
+A visual guide on troubleshooting Kubernetes deployments: https://habr.com/ru/company/flant/blog/484954/ https://learnk8s.io/troubleshooting-deployments
 
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
 
