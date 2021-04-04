@@ -198,3 +198,5 @@ https://github.com/Mazoise/42TESTERS-GNL
 https://github.com/charMstr/GNL_lover
 
 ## libft
+
+    Цель проекта: написать требуемые функции и собрать их в библиотеку, которую можно будет использовать в последующих проектах.
