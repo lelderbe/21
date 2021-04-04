@@ -42,9 +42,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Что такое Kubernetes https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 
-Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
+🔥 Kubernetes в действии (книга на русском): https://disk.yandex.ru/i/d2oWpYUiDCCi-w
 
-Настройка Minikube HOME folder: https://stackoverflow.com/questions/45947551/minikube-home-folder
+☝️ Настройка Minikube HOME folder: https://stackoverflow.com/questions/45947551/minikube-home-folder
 
 Зачем eval $(minikube docker-env): https://stackoverflow.com/questions/42564058/how-to-use-local-docker-images-with-minikube
 
