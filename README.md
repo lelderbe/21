@@ -70,6 +70,8 @@ Example: Deploying WordPress and MySQL with Persistent Volumes: https://kubernet
 
 How to Setup InfluxDB, Telegraf and Grafana on Docker: Part 1: https://thenewstack.io/how-to-setup-influxdb-telegraf-and-grafana-on-docker-part-1/
 
+How To Deploy InfluxDB / Telegraf / Grafana on K8s: https://octoperf.com/blog/2019/09/19/kraken-kubernetes-influxdb-grafana-telegraf/
+
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
     
     // move .minikube to /goinfre
