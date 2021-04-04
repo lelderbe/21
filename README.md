@@ -64,6 +64,8 @@ Run multiple services in a container: https://docs.docker.com/config/containers/
 
 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]: https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana
 
+Examples: https://github.com/container-examples
+
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
     
     // move .minikube to /goinfre
