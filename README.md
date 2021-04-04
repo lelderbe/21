@@ -72,6 +72,8 @@ How to Setup InfluxDB, Telegraf and Grafana on Docker: Part 1: https://thenewsta
 
 How To Deploy InfluxDB / Telegraf / Grafana on K8s: https://octoperf.com/blog/2019/09/19/kraken-kubernetes-influxdb-grafana-telegraf/
 
+Kubernetes CheatSheet: https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
     
     // move .minikube to /goinfre
