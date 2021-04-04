@@ -46,7 +46,7 @@ Kubernetes в действии (книга на русском): https://disk.ya
 
 Чат в ТГ: https://t.me/joinchat/VgygI_iu76nosxxn
 
-Minikube lives here (просто для инфо): https://github.com/kubernetes/minikube
+Minikube documentation: https://minikube.sigs.k8s.io/docs/
 
 Dockerized nginx is not starting https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting
 
