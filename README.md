@@ -66,6 +66,10 @@ Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]: https://www.youtube.
 
 Examples: https://github.com/container-examples
 
+Example: Deploying WordPress and MySQL with Persistent Volumes: https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
+
+How to Setup InfluxDB, Telegraf and Grafana on Docker: Part 1: https://thenewstack.io/how-to-setup-influxdb-telegraf-and-grafana-on-docker-part-1/
+
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
     
     // move .minikube to /goinfre
