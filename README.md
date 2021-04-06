@@ -101,6 +101,10 @@ Kubernetes CheatSheet: https://github.com/dennyzhang/cheatsheet-kubernetes-A4
     > SHOW VARIABLES LIKE 'skip_networking';
     should be OFF for network connections
 
+#influxdb
+
+    Есть в репозитории, установить, создать файл конфигурации, подключить том PVC
+    apk add influxdb
 
 ## libasm
 
