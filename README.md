@@ -23,6 +23,10 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Чеклисты: school21-checklists https://github.com/secondfry/school21-checklists
 
+## minishell
+
+
+
 ## ft_services
 
     Самый простой и быстрый путь к полностью функционирующему кластеру
