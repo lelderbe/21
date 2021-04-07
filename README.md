@@ -25,7 +25,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 ## minishell
 
+Без спойлеров: https://www.notion.so/minishell-imicah-a341793fc312485b90020fe950f6d5df
 
+Без спойлеров termcap: https://www.notion.so/minishell-termcap-sgertrud-dcc3fcbae6d14d24bb3fb50e1b5a04b9
 
 ## ft_services
 
