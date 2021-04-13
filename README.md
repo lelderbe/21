@@ -85,8 +85,8 @@ Kubernetes CheatSheet: https://github.com/dennyzhang/cheatsheet-kubernetes-A4
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
     
     // move .minikube to /goinfre
-    export MINIKUBE_HOME='/goinfre/'$USER
-    echo "export MINIKUBE_HOME='/goinfre/'$USER" >> ~/.zshrc
+    export MINIKUBE_HOME=/goinfre/$USER
+    echo "export MINIKUBE_HOME=/goinfre/$USER" >> ~/.zshrc
     
     brew install minikube
     minukube version
