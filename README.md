@@ -197,6 +197,9 @@ ONLINE IMAGE COLOR PICKER https://pinetools.com/image-color-picker
 
 ## ft_server
 
+    Цель проекта: познакомиться с системным администрирование и контейнеризацией, как альтернативой полноценным виртуальным машинам.
+    Попотеть над настройкой разных сервисов(
+
 Основы Docker. Большой практический выпуск https://www.youtube.com/watch?v=QF4ZF857m44
 
 Docker самый простой и понятный туториал. Изучаем докер, так, если бы он был игровой приставкой https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/
