@@ -42,6 +42,13 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
     
     Взаимодействие с кластером через: kubectl.
 
+Важное:
+
+    Если ошибки с DNS в VirtualBox - использовать alpine:3.12
+
+    Попросить в zsh minikube использовать /goinfre. Не забыть после команды перезапустить терминал!
+    echo "export MINIKUBE_HOME=/goinfre/$USER" >> ~/.zshrc
+
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
 
 🔥 От Докера к K8s: https://m.habr.com/ru/company/ruvds/blog/438982/ https://m.habr.com/ru/company/ruvds/blog/438984/
@@ -82,12 +89,6 @@ Telegraf: https://github.com/influxdata/telegraf
 
 Kubernetes CheatSheet: https://github.com/dennyzhang/cheatsheet-kubernetes-A4
 
-    Если ошибки с DNS в VirtualBox - использовать alpine:3.12
-    
-    // move .minikube to /goinfre
-    export MINIKUBE_HOME=/goinfre/$USER
-    echo "export MINIKUBE_HOME=/goinfre/$USER" >> ~/.zshrc
-    
     brew install minikube
     minukube version
     minikube addons list
