@@ -46,7 +46,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
     Если ошибки с DNS в VirtualBox - использовать alpine:3.12
 
-    Попросить в zsh minikube использовать /goinfre. Не забыть после команды перезапустить терминал!
+    // указать в zsh minikube использовать /goinfre. Не забыть после команды перезапустить терминал!
     echo "export MINIKUBE_HOME=/goinfre/$USER" >> ~/.zshrc
 
 Без спойлеров: https://www.notion.so/ft_services-e0700a527d0d45039388f65087c23b21
