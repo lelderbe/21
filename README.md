@@ -54,7 +54,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Зачем eval $(minikube docker-env): https://stackoverflow.com/questions/42564058/how-to-use-local-docker-images-with-minikube
 
-Чат в ТГ: https://t.me/joinchat/VgygI_iu76nosxxn
+Группа в ТГ: https://t.me/joinchat/VgygI_iu76nosxxn
 
 Minikube documentation: https://minikube.sigs.k8s.io/docs/
 
@@ -166,7 +166,7 @@ Debug: lldb + Voltron https://github.com/snare/voltron
 
 42Docs: https://harm-smits.github.io/42docs/projects/libasm.html
 
-Чат ТГ: https://t.me/joinchat/SLHcFZEh4lZMKPi0
+Группа в ТГ: https://t.me/joinchat/SLHcFZEh4lZMKPi0
 
 ## cub3d
 
