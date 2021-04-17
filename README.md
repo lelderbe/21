@@ -236,6 +236,8 @@ https://github.com/charMstr/GNL_lover
 
     Цель проекта: написать требуемые функции и собрать их в библиотеку, которую можно будет использовать в последующих проектах.
 
+Канал в ТГ: https://t.me/libft42
+
 # Книги
 
 Brian_Kernighan_Dennis_Ritchie-The_C_Programming_Language-RU: https://disk.yandex.ru/i/IsiG-LyAD4x0tg
