@@ -160,9 +160,9 @@ Debug: lldb + Voltron https://github.com/snare/voltron
     etc..
     
     ~/.zshenv
-    export PATH="/Users/lelderbe/Library/Python/3.7/bin:$PATH"
+    export PATH="/Users/$USER/Library/Python/3.7/bin:$PATH"
 
-Чекер: https://github.com/cacharle/libasm_test (нужен python3: brew install python3)
+Чекер (если он вам всё же нужен): https://github.com/cacharle/libasm_test (нужен python3: brew install python3)
 
 42Docs: https://harm-smits.github.io/42docs/projects/libasm.html
 
