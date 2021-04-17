@@ -228,3 +228,13 @@ https://github.com/charMstr/GNL_lover
 ## libft
 
     Цель проекта: написать требуемые функции и собрать их в библиотеку, которую можно будет использовать в последующих проектах.
+
+# Книги
+
+Brian_Kernighan_Dennis_Ritchie-The_C_Programming_Language-RU: https://disk.yandex.ru/i/IsiG-LyAD4x0tg
+
+Стандарт Си: https://disk.yandex.ru/i/u20PseJbNLYMNw
+
+Столяров: https://disk.yandex.ru/i/sKUkM3D_BqfSrw https://disk.yandex.ru/i/UOfHiR8f1AgVWA https://disk.yandex.ru/i/9bylKcEGPWJlyw
+
+Дэвид Гриффитс, Дон Гриффитс Изучаем программирование на C: https://disk.yandex.ru/i/UeZRu-JJqSqeqA
