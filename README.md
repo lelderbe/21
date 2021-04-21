@@ -208,6 +208,10 @@ Get started with Docker Machine and a local VM https://eternalhost.net/blog/razr
 
 Docker Tutorial For Beginners: https://www.youtube.com/watch?v=o5af1LBgAFw&ab_channel=Simplilearn
 
+--
+
+Start containers automatically: https://docs.docker.com/config/containers/start-containers-automatically/
+
 ## ft_printf
 
 Без спойлеров: https://www.notion.so/ft_printf-3e358ed673d14164b88de9eb428f3c6a
