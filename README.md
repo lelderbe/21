@@ -29,6 +29,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Без спойлеров termcap: https://www.notion.so/minishell-termcap-sgertrud-dcc3fcbae6d14d24bb3fb50e1b5a04b9
 
+42Docs: https://harm-smits.github.io/42docs/projects/minishell
+
 ## ft_services
 
     Самый простой и быстрый путь к полностью функционирующему кластеру
