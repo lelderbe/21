@@ -245,6 +245,14 @@ https://github.com/charMstr/GNL_lover
 ## libft
 
     Цель проекта: написать требуемые функции и собрать их в библиотеку, которую можно будет использовать в последующих проектах.
+    
+Тесты:
+
+Libftest - https://github.com/jtoty/Libftest
+
+libft-war-machine - https://github.com/ska42/libft-war-machine
+
+libft Unit tests - https://github.com/alelievr/libft-unit-test
 
 Канал в ТГ: https://t.me/libft42
 
