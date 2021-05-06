@@ -31,7 +31,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 42Docs: https://harm-smits.github.io/42docs/projects/minishell
 
-Unix Processes in C: https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY
+🔥 Unix Processes in C: https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY
 
 Дэвид Гриффитс, Дон Гриффитс Изучаем программирование на C - стр. 434 "Процессы и системные вызовы" https://disk.yandex.ru/i/UeZRu-JJqSqeqA
 
