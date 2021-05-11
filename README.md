@@ -33,6 +33,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 🔥 Unix Processes in C: https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY
 
+🔥 Столяров со стр. 336 "5.3 Процессы" https://disk.yandex.ru/i/UOfHiR8f1AgVWA
+
 Дэвид Гриффитс, Дон Гриффитс Изучаем программирование на C - стр. 434 "Процессы и системные вызовы" https://disk.yandex.ru/i/UeZRu-JJqSqeqA
 
 Bash Reference Manual - https://www.gnu.org/software/bash/manual/bash.html
