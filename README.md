@@ -39,6 +39,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Bash Reference Manual - https://www.gnu.org/software/bash/manual/bash.html
 
+https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
+
 ## ft_services (проект deprecated)
 
     Самый простой и быстрый путь к полностью функционирующему кластеру
