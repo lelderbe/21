@@ -222,7 +222,11 @@ Start containers automatically: https://docs.docker.com/config/containers/start-
 
     Цель проекта: передать от процесса-клиента на процесс-сервер строку текста, используя только сигналы.
     
-    PS нет, строку текста, как она есть, никак не передать с помощью сигналов
+    PS и нет, строку текста, как она есть, никак не передать с помощью сигналов - надо что-то придумать.
+
+Столяров - 5.3 Процессы (стр. 338)  https://disk.yandex.ru/i/UOfHiR8f1AgVWA
+
+Code Vault: https://www.youtube.com/watch?v=5We_HtLlAbs&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&index=16
 
 ## ft_printf
 
