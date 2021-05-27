@@ -218,6 +218,12 @@ Docker Tutorial For Beginners: https://www.youtube.com/watch?v=o5af1LBgAFw&ab_ch
 
 Start containers automatically: https://docs.docker.com/config/containers/start-containers-automatically/
 
+## minitalk
+
+    Цель проекта: передать от процесса-клиента на процесс-сервер строку текста, используя только сигналы.
+    
+    PS нет, строку текста, как она есть, никак не передать с помощью сигналов
+
 ## ft_printf
 
 Без спойлеров: https://www.notion.so/ft_printf-3e358ed673d14164b88de9eb428f3c6a
