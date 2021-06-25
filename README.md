@@ -41,6 +41,8 @@ Bash Reference Manual - https://www.gnu.org/software/bash/manual/bash.html
 
 https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
 
+Проверка не закрытых fd-шников: lsof -c minishell
+
 ## ft_services (проект deprecated)
 
     Самый простой и быстрый путь к полностью функционирующему кластеру
