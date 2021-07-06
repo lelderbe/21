@@ -230,6 +230,8 @@ Start containers automatically: https://docs.docker.com/config/containers/start-
 
 Code Vault: https://www.youtube.com/watch?v=5We_HtLlAbs&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&index=16
 
+Спойлер: Передача файла сигналами - https://habr.com/ru/post/122823/
+
 ## ft_printf
 
 Без спойлеров: https://www.notion.so/ft_printf-3e358ed673d14164b88de9eb428f3c6a
