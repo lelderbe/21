@@ -19,7 +19,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 # Проекты и ресурсы по ним
 
-[libft](#libft)
+[libft](#libft) [get_next_line](#get_next_line) [ft_printf](#ft_printf) [minishell](#minishell) [ft_services](#ft_services)
 
 Лекции без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
 
