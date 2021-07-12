@@ -35,6 +35,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 от asipes: https://vk.com/@forum42intra-push-swap
 
+от Jamie Dawson: https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
+
 ## minishell
 
 Без спойлеров: https://www.notion.so/minishell-imicah-a341793fc312485b90020fe950f6d5df
