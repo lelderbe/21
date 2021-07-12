@@ -30,7 +30,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
     Написать оптимальный алгоритм сортировки стека с помощью определённого набора команд и возможностью использования второго стека.
 
 Мысли по алгоритмам решения:
+
 от VBrazhnik: https://github.com/VBrazhnik/Push_swap/wiki/Algorithm
+
 от asipes: https://vk.com/@forum42intra-push-swap
 
 ## minishell
