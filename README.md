@@ -19,7 +19,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 # Проекты и ресурсы по ним
 
-[libft](#libft) [get_next_line](#get_next_line) [ft_printf](#ft_printf) [minishell](#minishell) [ft_services](#ft_services)
+[libft](#libft) [get_next_line](#get_next_line) [ft_printf](#ft_printf) [minitalk](#minitalk) [ft_server](#ft_server) [minishell](#minishell) [ft_services](#ft_services) [cub3d](#cub3d) [libasm](#libasm)
 
 Лекции без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
 
@@ -45,7 +45,7 @@ https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
 
 Проверка не закрытых fd-шников: lsof -c minishell
 
-## ft_services (проект deprecated)
+## ft_services
 
     Самый простой и быстрый путь к полностью функционирующему кластеру
     Kubernetes – использовать инструмент Minikube. Minikube – это инструмент,
