@@ -19,13 +19,13 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 # Проекты и ресурсы по ним
 
-[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push-swap](#push-swap)
+[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap)
 
 Лекции без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
 
 Чеклисты: school21-checklists https://github.com/secondfry/school21-checklists
 
-## push-swap
+## push_swap
 
     Написать оптимальный алгоритм сортировки стека с помощью определённого набора команд и возможностью использования второго стека.
 
@@ -36,6 +36,18 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 от asipes: https://vk.com/@forum42intra-push-swap
 
 от Jamie Dawson: https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
+
+    # чтобы zsh разбивал строку на элементы, как bash
+    setopt sh_wordsplit
+    
+    # количество операций
+    ARG="4 67 3 87 23"; ./push_swap $ARG | wc -l
+    
+    # проверка чекером
+    ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_Mac $ARG
+    
+    # проверка на утечки перед выходом
+    leaks --atExit -- ./push_swap 1 5 2 4 3
 
 ## minishell
 
