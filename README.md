@@ -37,6 +37,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 от Jamie Dawson: https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
 
+🔥 от Leo Fu radix sort: https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
+
     # чтобы zsh разбивал строку на элементы, как bash
     setopt sh_wordsplit
     
