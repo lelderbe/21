@@ -40,7 +40,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
     Написать оптимальный алгоритм сортировки стека с помощью определённого набора команд и возможностью использования второго стека.
 
-Мысли по алгоритмам решения:
+Варианты алгоритмов:
 
 от VBrazhnik: https://github.com/VBrazhnik/Push_swap/wiki/Algorithm
 
@@ -48,7 +48,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 от Jamie Dawson: https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
 
-🔥 от Leo Fu radix sort: https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
+от Leo Fu - radix sort: https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
+
+Чекер и пара видео под ним: https://github.com/rizky/42-push_swap
 
     # чтобы zsh разбивал строку на элементы, как bash
     setopt sh_wordsplit
