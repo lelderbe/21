@@ -16,6 +16,17 @@ GNU make https://www.gnu.org/software/make/manual/make.html
 
 examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
+# Лайфхаки
+
+    Удалили руками .brew и теперь не удаётся поставить? Пишем в терминал и запускаем:
+    curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
+
+    Разбивка аргументов типа "1 2 3 4" на части в zsh:
+    setopt sh_wordsplit
+
+    Проверка на утечки перед выходом из программы:
+    leaks --atExit -- ./a.out
+
 
 # Проекты и ресурсы по ним
 
