@@ -58,6 +58,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Чекер и пара видео под ним: https://github.com/rizky/42-push_swap
 
+Визуализатор процесса сортировки: https://github.com/o-reo/push_swap_visualizer
+
     # чтобы zsh разбивал строку на элементы, как bash
     setopt sh_wordsplit
     
