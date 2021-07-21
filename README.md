@@ -30,11 +30,14 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 # Проекты и ресурсы по ним
 
-[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap)
+[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap) | [Philosophers](#Philosophers)
 
 Лекции без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
 
 Чеклисты: school21-checklists https://github.com/brazhenko/school21-checklists https://github.com/caecitasminimus/school21-checklists https://github.com/secondfry/school21-checklists
+
+## Philosophers
+
 
 ## push_swap
 
