@@ -91,9 +91,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 от Leo Fu - radix sort: https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
 
-Чекер и пара видео под ним: https://github.com/rizky/42-push_swap
-
 Визуализатор процесса сортировки: https://github.com/o-reo/push_swap_visualizer
+
+Ещё один текстовый визуализатор и пара видео под ним: https://github.com/rizky/42-push_swap
 
     # чтобы zsh разбивал строку на элементы, как bash
     setopt sh_wordsplit
