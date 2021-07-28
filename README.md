@@ -42,6 +42,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Без спойлеров: https://www.notion.so/Philosophers-4a4982d5c1aa4e2db3a8cfd2df7bd1cd
 
+    Отображение всех потоков процесса:
+    ps -T -p <pid>
+
 ## push_swap
 
     Цель проекта: реализовать алгоритм сортировки стека с как можно меньшим количеством операций
