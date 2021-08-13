@@ -28,7 +28,7 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
     leaks --atExit -- ./a.out
     
     Для Visual Studio Code есть расширение, позволяющее работать по SSH с файлами на другой машине:
-    https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+    [ext](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
 
 # Проекты и ресурсы по ним
