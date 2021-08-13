@@ -38,6 +38,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 ## Philosophers
 
+    Цель проекта: научиться работать из нескольких параллельных потоков (философы)
+    с общими разделяемыми ресурсами (вилки, печать)
+
 🔥 Unix Threads in C: https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2
 
 Без спойлеров: https://www.notion.so/Philosophers-4a4982d5c1aa4e2db3a8cfd2df7bd1cd
