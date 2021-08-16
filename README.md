@@ -381,6 +381,10 @@ https://github.com/charMstr/GNL_lover
 
     Цель проекта: написать требуемые функции и собрать их в библиотеку, которую можно будет использовать в последующих проектах.
     
+Makefile: видео в Интре с бассейна
+
+Makefile от saugustu: https://www.notion.so/Makefile-6c182588c3064bfd8b72d97f66be708c
+
 Тесты:
 
 Libftest - https://github.com/jtoty/Libftest
@@ -388,8 +392,6 @@ Libftest - https://github.com/jtoty/Libftest
 libft-war-machine - https://github.com/ska42/libft-war-machine
 
 libft Unit tests - https://github.com/alelievr/libft-unit-test
-
-Канал в ТГ: https://t.me/libft42
 
 # Книги
 
