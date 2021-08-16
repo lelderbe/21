@@ -357,25 +357,13 @@ Code Vault: https://www.youtube.com/watch?v=5We_HtLlAbs&list=PLfqABt5AS4FkW5mOn2
 
 Без спойлеров: https://www.notion.so/ft_printf-3e358ed673d14164b88de9eb428f3c6a
 
-Тесты:
-
-https://github.com/gavinfielder/pft
-
-https://github.com/Mazoise/42TESTERS-PRINTF
-
-https://github.com/charMstr/printf_lover_v2
-
-https://github.com/cacharle/ft_printf_test
+Чекеры: https://github.com/gavinfielder/pft https://github.com/Mazoise/42TESTERS-PRINTF https://github.com/charMstr/printf_lover_v2 https://github.com/cacharle/ft_printf_test
 
 ## get_next_line
 
 Без спойлеров: https://www.notion.so/get_next_line-59fb1381311b4867b4cfaeec5b94c193
 
-Тесты:
-
-https://github.com/Mazoise/42TESTERS-GNL
-
-https://github.com/charMstr/GNL_lover
+Чекеры: https://github.com/Mazoise/42TESTERS-GNL https://github.com/charMstr/GNL_lover
 
 ## libft
 
@@ -385,13 +373,7 @@ Makefile: видео в Интре с бассейна
 
 Makefile от saugustu: https://www.notion.so/Makefile-6c182588c3064bfd8b72d97f66be708c
 
-Тесты:
-
-Libftest - https://github.com/jtoty/Libftest
-
-libft-war-machine - https://github.com/ska42/libft-war-machine
-
-libft Unit tests - https://github.com/alelievr/libft-unit-test
+Чекеры: https://github.com/jtoty/Libftest https://github.com/ska42/libft-war-machine https://github.com/alelievr/libft-unit-test
 
 # Книги
 
