@@ -39,6 +39,12 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Чеклисты: school21-checklists https://github.com/caecitasminimus/school21-checklists https://github.com/brazhenko/school21-checklists https://github.com/secondfry/school21-checklists
 
+## C++
+
+Столяров со стр. 93 "10. Язык C++": https://disk.yandex.ru/i/9bylKcEGPWJlyw
+
+Intra: https://elearning.intra.42.fr/tags/38/notions
+
 ## Philosophers
 
     Цель проекта: научиться взаимодействовать из нескольких параллельных потоков (философы)
