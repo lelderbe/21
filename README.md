@@ -45,6 +45,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Intra: https://elearning.intra.42.fr/tags/38/notions
 
+https://cplusplus.com/
+
 ## Philosophers
 
     Цель проекта: научиться взаимодействовать из нескольких параллельных потоков (философы)
