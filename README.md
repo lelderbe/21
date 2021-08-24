@@ -346,6 +346,9 @@ Docker Tutorial For Beginners: https://www.youtube.com/watch?v=o5af1LBgAFw&ab_ch
 
 Start containers automatically: https://docs.docker.com/config/containers/start-containers-automatically/
 
+    Mac sed:
+    sed -i '' 's/old_text/new_text/' $FILENAME
+
 ## minitalk
 
     Цель проекта: передать от процесса-клиента на процесс-сервер строку текста, используя только сигналы.
