@@ -47,6 +47,10 @@ Intra: https://elearning.intra.42.fr/tags/38/notions
 
 C++ Reference: http://www.cplusplus.com/reference/
 
+Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
+
+How can I convert a std::string to int? https://stackoverflow.com/questions/7663709/how-can-i-convert-a-stdstring-to-int https://stackoverflow.com/a/6154614
+
 Объект stringstream не обновляет значение: https://stackoverflow.com/questions/13891856/cannot-overwrite-stringstream-variable-with-a-new-value
 
 ## Philosophers
