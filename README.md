@@ -47,6 +47,8 @@ Intra: https://elearning.intra.42.fr/tags/38/notions
 
 https://cplusplus.com/
 
+stringstream clearing: https://stackoverflow.com/questions/13891856/cannot-overwrite-stringstream-variable-with-a-new-value
+
 ## Philosophers
 
     Цель проекта: научиться взаимодействовать из нескольких параллельных потоков (философы)
