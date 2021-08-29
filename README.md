@@ -45,9 +45,9 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Intra: https://elearning.intra.42.fr/tags/38/notions
 
-https://cplusplus.com/
+C++ Reference: http://www.cplusplus.com/reference/
 
-stringstream clearing: https://stackoverflow.com/questions/13891856/cannot-overwrite-stringstream-variable-with-a-new-value
+Объект stringstream не обновляет значение: https://stackoverflow.com/questions/13891856/cannot-overwrite-stringstream-variable-with-a-new-value
 
 ## Philosophers
 
