@@ -59,6 +59,10 @@ How can I convert a std::string to int? [Самый простой способ 
 
 Orthodox canonical class form: https://www.francescmm.com/orthodox-canonical-class-form/
 
+### cpp03
+
+Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-in-c/
+
 ## Philosophers
 
     Цель проекта: научиться взаимодействовать из нескольких параллельных потоков (философы)
@@ -185,6 +189,9 @@ https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
 
 ## ft_services
 
+<details>
+  <summary>Project deprecated</summary>
+
     Самый простой и быстрый путь к полностью функционирующему кластеру
     Kubernetes – использовать инструмент Minikube. Minikube – это инструмент,
     который настраивает одноузловой кластер. Такой кластер отлично подходит
@@ -263,6 +270,8 @@ Kubernetes CheatSheet: https://github.com/dennyzhang/cheatsheet-kubernetes-A4
     Есть в репозитории, установить, создать файл конфигурации, подключить том PVC
     apk add influxdb
 
+</details>
+    
 ## libasm
 
     Цель проекта: переписать несколько функций, которые писали в либе на Си, но теперь
