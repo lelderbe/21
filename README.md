@@ -354,7 +354,11 @@ ONLINE IMAGE COLOR PICKER https://pinetools.com/image-color-picker
 
 ## ft_server
 
-    Цель проекта: познакомиться с системным администрированием и контейнеризацией, как альтернативой полноценным виртуальным машинам.
+<details>
+  <summary>Project deprecated</summary>
+
+    Цель проекта: познакомиться с системным администрированием и контейнеризацией,
+    как альтернативой полноценным виртуальным машинам.
     Попотеть над настройкой разных сервисов(
 
 Основы Docker. Большой практический выпуск https://www.youtube.com/watch?v=QF4ZF857m44
@@ -371,6 +375,8 @@ Start containers automatically: https://docs.docker.com/config/containers/start-
 
     Mac sed:
     sed -i '' 's/old_text/new_text/' $FILENAME
+
+</details>
 
 ## minitalk
 
