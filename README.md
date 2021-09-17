@@ -49,19 +49,25 @@ C++ Reference: http://www.cplusplus.com/reference/
 
 Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
 
-### cpp01
+### cpp00 - basics
+
+### cpp01 - new, delete, references, filestreams
 
 How can I convert a std::string to int? [Самый простой способ преобразовать int в string в C++](https://coderoad.ru/5590381/%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-int-%D0%B2-string-%D0%B2-C) https://stackoverflow.com/questions/7663709/how-can-i-convert-a-stdstring-to-int https://stackoverflow.com/a/6154614
 
 Объект stringstream не обновляет значение: https://stackoverflow.com/questions/13891856/cannot-overwrite-stringstream-variable-with-a-new-value
 
-### cpp02
+### cpp02 - function overloading, operator overload, canonical form
 
 Orthodox canonical class form: https://www.francescmm.com/orthodox-canonical-class-form/
 
-### cpp03
+### cpp03 - inheritance, diamond inheritance
 
 Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-in-c/
+
+### cpp04 - sub-typing polymorphism (RTTI), abstract classes, interfaces
+
+### cpp05 - nested classes, exceptions
 
 ## Philosophers
 
