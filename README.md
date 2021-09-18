@@ -197,7 +197,7 @@ $ lsof -c minishell
 # Интересные кейсы:
 $ yes | yes | head
 $ cat | ls
-
+```
 
 ## ft_services
 
