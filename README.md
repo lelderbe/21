@@ -14,6 +14,8 @@ GNU make https://www.gnu.org/software/make/manual/make.html
 
 42-exam-rank-03 https://github.com/Glagan/42-exam-rank-03
 
+42-exam-rank-04 https://github.com/Glagan/42-exam-rank-04
+
 examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 # Лайфхаки
