@@ -190,12 +190,13 @@ Bash Reference Manual - https://www.gnu.org/software/bash/manual/bash.html
 
 https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
 
-    Проверка не закрытых fd-шников:
-    lsof -c minishell
+```bash
+# Проверка не закрытых fd-шников:
+$ lsof -c minishell
 
-    Интересные кейсы:
-    yes | yes | head
-    cat | ls
+# Интересные кейсы:
+$ yes | yes | head
+$ cat | ls
 
 
 ## ft_services
