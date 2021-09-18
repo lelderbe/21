@@ -153,22 +153,24 @@ Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-i
 
 Ещё один текстовый визуализатор и пара видео под ним: https://github.com/rizky/42-push_swap
 
-    # чтобы zsh разбивал строку на элементы, как bash
-    setopt sh_wordsplit
+```bash
+# чтобы zsh разбивал строку на элементы, как bash
+$ setopt sh_wordsplit
     
-    # количество операций
-    ARG="4 67 3 87 23"; ./push_swap $ARG | wc -l
-    ARG=`ruby -e "puts (1..5).to_a.shuffle.join(' ')"`; echo $ARG ; ./push_swap $ARG | wc -l
+# количество операций
+$ ARG="4 67 3 87 23"; ./push_swap $ARG | wc -l
+$ ARG=`ruby -e "puts (1..5).to_a.shuffle.join(' ')"`; echo $ARG ; ./push_swap $ARG | wc -l
     
-    # проверка чекером
-    ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_Mac $ARG
-    ARG=`ruby -e "puts (1..5).to_a.shuffle.join(' ')"`; echo $ARG ; ./push_swap $ARG | ./checker_Mac $ARG
+# проверка чекером
+$ ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_Mac $ARG
+$ ARG=`ruby -e "puts (1..5).to_a.shuffle.join(' ')"`; echo $ARG ; ./push_swap $ARG | ./checker_Mac $ARG
     
-    # запуск визуализатора
-    ./pyviz.py `ruby -e "puts (1..100).to_a.shuffle.join(' ')"`
+# запуск визуализатора
+$ ./pyviz.py `ruby -e "puts (1..100).to_a.shuffle.join(' ')"`
     
-    # проверка на утечки перед выходом
-    leaks --atExit -- ./push_swap 1 5 2 4 3
+# проверка на утечки перед выходом
+$ leaks --atExit -- ./push_swap 1 5 2 4 3
+```
 
 ## minishell
 
