@@ -14,7 +14,7 @@ GNU make https://www.gnu.org/software/make/manual/make.html
 
 42-exam-rank-03 https://github.com/Glagan/42-exam-rank-03
 
-42-exam-rank-04 https://github.com/Glagan/42-exam-rank-04
+42-exam-rank-04 https://github.com/lelderbe/exam04 https://github.com/Glagan/42-exam-rank-04
 
 examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
@@ -30,7 +30,7 @@ $ setopt sh_wordsplit
 # Проверка на утечки перед выходом из программы:
 $ leaks --atExit -- ./a.out
     
-# Для Visual Studio Code есть расширение, позволяющее работать по SSH с файлами на другой машине:
+# Для Visual Studio Code есть расширение, позволяющее работать по SSH с файлами на другом хосте:
 # https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
 ```
 
