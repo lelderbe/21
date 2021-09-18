@@ -20,18 +20,19 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 # Лайфхаки
 
-    Удалили руками .brew и теперь не удаётся поставить? Пишем в терминал и запускаем:
-    curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
+```bash
+# Удалили руками .brew и теперь не удаётся поставить? Пишем в терминал и запускаем:
+$ curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
 
-    Разбивка аргументов типа "1 2 3 4" на части в zsh:
-    setopt sh_wordsplit
+# Разбивка аргументов типа "1 2 3 4" на части в zsh:
+$ setopt sh_wordsplit
 
-    Проверка на утечки перед выходом из программы:
-    leaks --atExit -- ./a.out
+# Проверка на утечки перед выходом из программы:
+$ leaks --atExit -- ./a.out
     
-    Для Visual Studio Code есть расширение, позволяющее работать по SSH с файлами на другой машине:
-    https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
-
+# Для Visual Studio Code есть расширение, позволяющее работать по SSH с файлами на другой машине:
+# https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+```
 
 # Проекты и ресурсы по ним
 
