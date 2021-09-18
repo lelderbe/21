@@ -67,7 +67,7 @@ Orthodox canonical class form: https://www.francescmm.com/orthodox-canonical-cla
 
 Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-in-c/
 
-### cpp04 - sub-typing polymorphism (RTTI), abstract classes, interfaces
+### cpp04 - sub-typing polymorphism (RTTI), abstract classes, interfaces, deep object copying
 
 ### cpp05 - nested classes, exceptions
 
