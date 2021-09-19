@@ -72,6 +72,8 @@ Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-i
 
 ### cpp05 - nested classes, exceptions
 
+### cpp06 - C++ casts
+
 ## Philosophers
 
     Цель проекта: научиться взаимодействовать из нескольких параллельных потоков (философы)
