@@ -76,6 +76,8 @@ Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-i
 
 ### cpp06 - C++ casts
 
+### cpp07 - шаблоны функций (templates)
+
 ## Philosophers
 
     Цель проекта: научиться взаимодействовать из нескольких параллельных потоков (философы)
