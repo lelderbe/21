@@ -76,7 +76,7 @@ Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-i
 
 ### cpp06 - C++ casts
 
-### cpp07 - шаблоны функций (templates)
+### cpp07 - шаблоны функций (template<T>)
 
 ## Philosophers
 
