@@ -60,6 +60,8 @@ How can I convert a std::string to int? [Самый простой способ 
 
 Объект stringstream не обновляет значение: https://stackoverflow.com/questions/13891856/cannot-overwrite-stringstream-variable-with-a-new-value
 
+Array of functions http://www.cplusplus.com/forum/beginner/4639/
+
 ### cpp02 - function overloading, operator overload, canonical form
 
 Orthodox canonical class form: https://www.francescmm.com/orthodox-canonical-class-form/
