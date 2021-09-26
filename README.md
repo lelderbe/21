@@ -76,7 +76,7 @@ Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-i
 
 ### cpp05 - nested classes, exceptions
 
-### cpp06 - C++ casts
+### cpp06 - C++ casts - преобразования типов через static_cast, dynamic_cast и т.п.
 
 ### cpp07 - шаблоны функций (template<T>)
 
