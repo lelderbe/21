@@ -205,6 +205,14 @@ $ lsof -c minishell
 # Интересные кейсы:
 $ yes | yes | head
 $ cat | ls
+
+$ export AA="1       444        5"
+$ echo $AA
+1 444 5
+    
+$ export BB="0    $AA   7"
+$ echo BB
+0 1 444 5 7
 ```
 
 ## ft_services
