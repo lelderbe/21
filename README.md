@@ -209,10 +209,14 @@ $ cat | ls
 $ export AA="1       444        5"
 $ echo $AA
 1 444 5
-    
+
 $ export BB="0    $AA   7"
 $ echo BB
 0 1 444 5 7
+
+# следствие предыдущих примеров
+$ export $FOLDER="/bin no_such_dir"
+$ cd $FOLDER
 ```
 
 ## ft_services
