@@ -206,6 +206,15 @@ $ lsof -c minishell
 $ yes | yes | head
 $ cat | ls
 
+# запустить minishell без переменных окружения
+$ env -i ./minishell
+
+# запустить ls без "./"
+$ unset PATH
+$ cd /bin
+$ ls
+
+# замена переменной окружения на значение
 $ export AA="1       444        5"
 $ echo $AA
 1 444 5
