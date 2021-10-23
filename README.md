@@ -80,6 +80,10 @@ Multiple Inheritance in C++ https://www.geeksforgeeks.org/multiple-inheritance-i
 
 ### cpp07 - шаблоны функций (template<T>)
 
+### cpp08 - использование STL
+
+C++: “undefined reference to” templated class function: https://stackoverflow.com/questions/10632251/undefined-reference-to-template-function https://bytefreaks.net/programming-2/c/c-undefined-reference-to-templated-class-function
+
 ## Philosophers
 
     Цель проекта: научиться взаимодействовать из нескольких параллельных потоков (философы)
