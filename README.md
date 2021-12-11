@@ -38,11 +38,16 @@ $ leaks --atExit -- ./a.out
 
 # Проекты и ресурсы по ним
 
-[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap) | [Philosophers](#Philosophers) | [C++](#c)
+[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap) | [Philosophers](#Philosophers) | [C++](#c) | [Inception](#Inception)
 
 Лекции без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
 
 Чеклисты: school21-checklists https://github.com/mharriso/school21-checklists https://github.com/caecitasminimus/school21-checklists https://github.com/brazhenko/school21-checklists
+
+## Inception
+
+Установка docker на ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
+
 
 ## C++
 
