@@ -48,6 +48,8 @@ $ leaks --atExit -- ./a.out
 
 Установка docker на ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
 
+Про Docker и Docker Compose: https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg
+
 
 ## C++
 
