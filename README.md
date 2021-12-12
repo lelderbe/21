@@ -46,11 +46,18 @@ $ leaks --atExit -- ./a.out
 
 ## Inception
 
+Что посмотреть:
+
+Про VirtualBox: https://www.youtube.com/watch?v=j1FAZ0bUEvs&ab_channel=Pingvinus
+
+Про Docker и Docker Compose: https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg
+
+How-to:
+
 Install Docker Engine on Ubuntu - https://docs.docker.com/engine/install/ubuntu/ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
 
 Install Docker Compose - https://docs.docker.com/compose/install/
 
-Про Docker и Docker Compose: https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg
 
 
 ## C++
