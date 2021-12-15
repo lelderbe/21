@@ -51,11 +51,11 @@ $ leaks --atExit -- ./a.out
     Docker Engine и Docker compose. Сконфигурировать каждый контейнер (Dockerfile, конфиги) и собрать все их
     в виде сервисов в docker-compose.yml файле.
 
-#### Что посмотреть
-
 Про VirtualBox: https://www.youtube.com/watch?v=j1FAZ0bUEvs&ab_channel=Pingvinus
 
 Про Docker и Docker Compose: https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg
+
+Docker Compose и Best Practice Docker: https://www.youtube.com/watch?v=Hz7fkXQABNo
 
 #### Настройка виртуальной машины
 
