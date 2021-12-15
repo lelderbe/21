@@ -68,6 +68,7 @@ Docker Compose и Best Practice Docker: https://www.youtube.com/watch?v=Hz7fkXQA
     sudo apt install make vim
     # Установил guest additions по видео выше, чтобы работал copy/paste и рабочий стол свободно изменял свой размер
     sudo apt-get install dkms build-essential + установка из меню VirtualBox
+    # каталоги для томов
     mkdir -p ~/data/mysql && mkdir -p ~/data/wordpress
 
 Install Docker Engine on Ubuntu - https://docs.docker.com/engine/install/ubuntu/ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
@@ -103,7 +104,6 @@ Install Docker Compose - https://docs.docker.com/compose/install/
 
     sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
     sudo chmod +x /usr/local/bin/docker-compose
-
 
 docker-compose options: https://docs.docker.com/compose/reference/
 
