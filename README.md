@@ -46,19 +46,56 @@ $ leaks --atExit -- ./a.out
 
 ## Inception
 
-Что посмотреть:
+### Что посмотреть
 
 Про VirtualBox: https://www.youtube.com/watch?v=j1FAZ0bUEvs&ab_channel=Pingvinus
 
 Про Docker и Docker Compose: https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg
 
-How-to:
+### Настройка виртуальной машины
 
 Install Docker Engine on Ubuntu - https://docs.docker.com/engine/install/ubuntu/ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
 
+```bash
+# remove before install
+sudo apt-get remove docker docker-engine docker.io containerd runc
+
+# install
+sudo apt-get install ca-certificates curl gnupg lsb-release
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+# add user to docker group
+sudo usermod -aG docker ${USER}
+# update permissions (newgrp docker?)
+su - ${USER}
+# проверка, что в группе и что docker работает
+id -nG
+docker run hello-world
+```
+
 Install Docker Compose - https://docs.docker.com/compose/install/
 
+    sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+    sudo chmod +x /usr/local/bin/docker-compose
 
+
+docker-compose options: https://docs.docker.com/compose/reference/
+
+Посмотреть получающийся конфиг: docker-compose config
+
+спецификация: https://github.com/compose-spec/compose-spec/blob/master/spec.md
+
+### MySQL
+
+```bash
+# Проверить подключение к контейнеру с БД из другого контейнера (после настройки)
+mysql -h mariadb -u root -p <ввести пароль, когда запросит>
+```
 
 ## C++
 
