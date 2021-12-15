@@ -46,7 +46,7 @@ $ leaks --atExit -- ./a.out
 
 ## Inception
 
-    Необходимо поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
+    Цель проекта - поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
     Для этого необходимо создать саму виртуальную машину (Debian/Ubuntu/whatever), установить в ней
     Docker Engine и Docker compose. Сконфигурировать каждый контейнер (Dockerfile, конфиги) и собрать все их
     в виде сервисов в docker-compose.yml файле.
@@ -73,7 +73,7 @@ $ leaks --atExit -- ./a.out
 Install Docker Engine on Ubuntu - https://docs.docker.com/engine/install/ubuntu/ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
 
 <details>
-  <summary>Project deprecated</summary>
+  <summary>команды</summary>
 
 ```bash
 # remove before install
@@ -109,6 +109,12 @@ docker-compose options: https://docs.docker.com/compose/reference/
 
 Посмотреть получающийся конфиг: docker-compose config
 
+Networking in Compose: https://docs.docker.com/compose/networking/
+
+How to use Docker .env file: https://www.techrepublic.com/article/how-to-use-docker-env-file/
+
+Setting Default Docker Environment Variables During Image Build: https://vsupalov.com/docker-build-time-env-values/
+
 The Compose Specification: https://github.com/compose-spec/compose-spec/blob/master/spec.md
 
 #### MySQL
@@ -116,6 +122,37 @@ The Compose Specification: https://github.com/compose-spec/compose-spec/blob/mas
 ```bash
 # Проверить подключение к контейнеру с БД из другого контейнера (после настройки)
 mysql -h mariadb -u root -p <ввести пароль, когда запросит>
+
+# Сделать SQL dump:
+mysqldump -u username -p dbname > filename.sql
+```
+
+#### nginx
+
+Руководство по настройке nginx: https://nginx.org/ru/docs/beginners_guide.html
+
+How To Configure Nginx to use TLS 1.2 / 1.3 only: https://www.cyberciti.biz/faq/configure-nginx-to-use-only-tls-1-2-and-1-3/
+
+```bash
+# check TLS 1.2 and TLS 1.3 working:
+curl -k -I -v --tlsv1.2 --tls-max 1.2 https://localhost
+curl -k -I -v --tlsv1.3 --tls-max 1.3 https://localhost
+
+# check TLS 1.1 failing:
+curl -k -I -v --tlsv1.1 --tls-max 1.1 https://localhost
+```
+
+#### php-fpm
+
+    Много времени потерял, пытаясь понять, почему не работают php-файлы, хотя nginx настроен
+    и php-fpm стартует. Оказалось, что у меня были разные пути к файлам в nginx и в php-fpm.
+    Сделал пути одинаковыми и всё заработало (/var/www/wordpress/ /var/www/wordpress/).
+
+How To Install PHP 7.4 on Debian 10: https://computingforgeeks.com/how-to-install-latest-php-on-debian/
+
+```bash
+# Проверить, прослушивает ли порты php-fpm (установить пакет net-tools):
+netstat -lntp
 ```
 
 ## C++
