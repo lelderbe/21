@@ -46,15 +46,34 @@ $ leaks --atExit -- ./a.out
 
 ## Inception
 
-### Что посмотреть
+    Необходимо поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
+    Для этого необходимо создать саму виртуальную машину (Debian/Ubuntu/whatever), установить в ней
+    Docker Engine и Docker compose. Сконфигурировать каждый контейнер (Dockerfile, конфиги) и собрать все их
+    в виде сервисов в docker-compose.yml файле.
+
+#### Что посмотреть
 
 Про VirtualBox: https://www.youtube.com/watch?v=j1FAZ0bUEvs&ab_channel=Pingvinus
 
 Про Docker и Docker Compose: https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg
 
-### Настройка виртуальной машины
+#### Настройка виртуальной машины
+
+    Я устанавливал Ubuntu Desktop (с графическим интерфейсом и возможностью запустить браузер).
+    Скачать с офсайта, создать виртуальную машину: 2ГБ памяти, 2CPU, NAT.
+    В процессе установки выбрал минимальную установку без скачивания обновлений.
+    Сразу же задал имя хоста: <login>.42.fr.
+    
+    sudo apt update
+    sudo apt install make vim
+    # Установил guest additions по видео выше, чтобы работал copy/paste и рабочий стол свободно изменял свой размер
+    sudo apt-get install dkms build-essential + установка из меню VirtualBox
+    mkdir -p ~/data/mysql && mkdir -p ~/data/wordpress
 
 Install Docker Engine on Ubuntu - https://docs.docker.com/engine/install/ubuntu/ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
+
+<details>
+  <summary>Project deprecated</summary>
 
 ```bash
 # remove before install
@@ -78,6 +97,8 @@ id -nG
 docker run hello-world
 ```
 
+</details>
+
 Install Docker Compose - https://docs.docker.com/compose/install/
 
     sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
@@ -88,9 +109,9 @@ docker-compose options: https://docs.docker.com/compose/reference/
 
 Посмотреть получающийся конфиг: docker-compose config
 
-спецификация: https://github.com/compose-spec/compose-spec/blob/master/spec.md
+The Compose Specification: https://github.com/compose-spec/compose-spec/blob/master/spec.md
 
-### MySQL
+#### MySQL
 
 ```bash
 # Проверить подключение к контейнеру с БД из другого контейнера (после настройки)
