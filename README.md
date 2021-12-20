@@ -57,6 +57,8 @@ $ leaks --atExit -- ./a.out
 
 Docker Compose и Best Practice Docker: https://www.youtube.com/watch?v=Hz7fkXQABNo
 
+Лекция от Сардора по проекту: https://www.youtube.com/watch?v=RuTp0US9IgY
+
 #### Настройка виртуальной машины
 
     Я устанавливал Ubuntu Desktop (с графическим интерфейсом и возможностью запустить браузер).
