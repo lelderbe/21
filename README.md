@@ -62,16 +62,14 @@ Docker Compose и Best Practice Docker: https://www.youtube.com/watch?v=Hz7fkXQA
 #### Настройка виртуальной машины
 
     Я устанавливал Ubuntu Desktop (с графическим интерфейсом и возможностью запустить браузер).
-    Скачать с офсайта, создать виртуальную машину: 2ГБ памяти, 2CPU, NAT или bridge network.
+    Скачать с офсайта, создать виртуальную машину: 2ГБ памяти, 2CPU, сеть: NAT.
     В процессе установки выбрал минимальную установку без скачивания обновлений.
     Сразу же задал имя хоста: <login>.42.fr
     
-    sudo apt update
-    sudo apt install make vim
+    sudo apt-get update
+    sudo apt-get install make vim
     # Установил guest additions по видео выше, чтобы работал copy/paste и рабочий стол свободно изменял свой размер
     sudo apt-get install dkms build-essential + установка из меню VirtualBox
-    # каталоги для томов
-    mkdir -p ~/data/mysql && mkdir -p ~/data/wordpress
 
 Install Docker Engine on Ubuntu - https://docs.docker.com/engine/install/ubuntu/ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
 
