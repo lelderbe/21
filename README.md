@@ -22,6 +22,8 @@ examrank-02-03-04-05-06 https://github.com/markveligod/examrank-02-03-04-05-06
 
 Что нужно и чего не нужно делать во время Code Review: https://apptractor.ru/info/articles/chto-nuzhno-i-chego-ne-nuzhno-delat-vo-vremya-code-review.html
 
+Awesome cheatsheets: https://lecoupa.github.io/awesome-cheatsheets/
+
 # Лайфхаки
 
 ```bash
