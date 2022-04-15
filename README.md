@@ -48,6 +48,12 @@ $ leaks --atExit -- ./a.out
 
 Чеклисты: school21-checklists https://github.com/mharriso/school21-checklists https://github.com/caecitasminimus/school21-checklists https://github.com/brazhenko/school21-checklists
 
+## Java Piscine
+
+#### day00
+
+Как определить простое число или нет: https://hd01.ru/info/kak-opredelit-prostoe-chislo-ili-net/
+
 ## Inception
 
     Цель проекта - поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
