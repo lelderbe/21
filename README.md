@@ -50,6 +50,8 @@ $ leaks --atExit -- ./a.out
 
 ## Java Piscine
 
+Subject, checklists: https://github.com/Preposterone/java_piscine_21
+
 #### day00
 
 Как определить простое число или нет: https://hd01.ru/info/kak-opredelit-prostoe-chislo-ili-net/
