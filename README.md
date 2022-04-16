@@ -56,7 +56,9 @@ Subjects, checklists: https://github.com/Preposterone/java_piscine_21
 
 Как определить простое число или нет: https://hd01.ru/info/kak-opredelit-prostoe-chislo-ili-net/
 
-ex04 test string: aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh
+ex01 test cases: -1 0 1 (error) 2 (true 1) 3 (true 1)
+
+ex04 test string: "" "ab" "aaaaaaaaaaab" "aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh"
 
 ## Inception
 
