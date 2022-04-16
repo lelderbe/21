@@ -54,6 +54,8 @@ $ leaks --atExit -- ./a.out
 
 Как определить простое число или нет: https://hd01.ru/info/kak-opredelit-prostoe-chislo-ili-net/
 
+ex04 test string: aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh
+
 ## Inception
 
     Цель проекта - поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
