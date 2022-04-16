@@ -50,7 +50,7 @@ $ leaks --atExit -- ./a.out
 
 ## Java Piscine
 
-Subject, checklists: https://github.com/Preposterone/java_piscine_21
+Subjects, checklists: https://github.com/Preposterone/java_piscine_21
 
 #### day00
 
