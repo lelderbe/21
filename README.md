@@ -58,7 +58,9 @@ Subjects, checklists: https://github.com/Preposterone/java_piscine_21
 
 ex01 test cases: -1 0 1 (error) 2 (true 1) 3 (true 1)
 
-ex04 test string: "" "ab" "aaaaaaaaaaab" "aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh"
+ex02 test cases: 10 (0) 20 (1) 42 (0)
+
+ex04 test string: "" "ab" "aaaaaaaaaaab" "ддд гвба яю" "aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh"
 
 ## Inception
 
