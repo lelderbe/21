@@ -66,6 +66,10 @@ BufferedImage, Color
 
 javac: https://www.baeldung.com/javac-compile-classes-directory
 
+read file from resource: https://www.amitph.com/java-read-file-from-resources-folder/
+
+Creating an Executable Jar File: https://www.skylit.com/javamethods/faqs/createjar.html
+
 ## Inception
 
     Цель проекта - поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
