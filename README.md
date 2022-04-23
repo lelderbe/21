@@ -70,6 +70,8 @@ read file from resource: https://www.amitph.com/java-read-file-from-resources-fo
 
 Creating an Executable Jar File: https://www.skylit.com/javamethods/faqs/createjar.html
 
+Jcommander manual: https://jcommander.org/
+
 #### rush00
 
 Сгенерировать чистый maven-проект
