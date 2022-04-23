@@ -60,9 +60,13 @@ ex02 test cases: 10 (0) 20 (1) 42 (0)
 
 ex04 test string: "" "ab" "aaaaaaaaaaab" "ддд гвба яю" "aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh"
 
+#### day03
+
+Producer-Consumer: https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
+
 #### day04
 
-BufferedImage, Color
+чтение bmp: BufferedImage, Color
 
 javac: https://www.baeldung.com/javac-compile-classes-directory
 
