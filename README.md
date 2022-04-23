@@ -74,7 +74,7 @@ Creating an Executable Jar File: https://www.skylit.com/javamethods/faqs/createj
 
 Сгенерировать чистый maven-проект
 ```bash
-mvn archetype:generate -DgroupId=edu.school21.rush00 -DartifactId=Game -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+mvn archetype:generate -DgroupId=rush00 -DartifactId=Game -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 
 ## Inception
