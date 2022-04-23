@@ -70,6 +70,13 @@ read file from resource: https://www.amitph.com/java-read-file-from-resources-fo
 
 Creating an Executable Jar File: https://www.skylit.com/javamethods/faqs/createjar.html
 
+#### rush00
+
+Сгенерировать чистый maven-проект
+```bash
+mvn archetype:generate -DgroupId=edu.school21.rush00 -DartifactId=Game -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+```
+
 ## Inception
 
     Цель проекта - поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
