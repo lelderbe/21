@@ -78,6 +78,8 @@ Jcommander manual: https://jcommander.org/
 
 #### rush00
 
+How to Create an Executable JAR with Maven: https://www.baeldung.com/executable-jar-with-maven
+
 Сгенерировать чистый maven-проект
 ```bash
 mvn archetype:generate -DgroupId=rush00 -DartifactId=Game -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
