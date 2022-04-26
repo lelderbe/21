@@ -52,6 +52,8 @@ $ leaks --atExit -- ./a.out
 
 Subjects, checklists: https://github.com/Preposterone/java_piscine_21
 
+Лекции от участника бассейна: https://www.youtube.com/channel/UC5uU5-C19oEPLWIvyo3a1cQ/videos
+
 #### day00 Primitives
 
 ex01 test cases: -1 0 1 (error) 2 (true 1) 3 (true 1)
