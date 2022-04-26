@@ -52,7 +52,7 @@ $ leaks --atExit -- ./a.out
 
 Subjects, checklists: https://github.com/Preposterone/java_piscine_21
 
-#### day00
+#### day00 Primitives
 
 ex01 test cases: -1 0 1 (error) 2 (true 1) 3 (true 1)
 
@@ -60,7 +60,7 @@ ex02 test cases: 10 (0) 20 (1) 42 (0)
 
 ex04 test string: "" "ab" "aaaaaaaaaaab" "ддд гвба яю" "aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh"
 
-#### day03
+#### day03 Multithreading
 
 Producer-Consumer: https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
 
@@ -75,6 +75,10 @@ read file from resource: https://www.amitph.com/java-read-file-from-resources-fo
 Creating an Executable Jar File: https://www.skylit.com/javamethods/faqs/createjar.html
 
 Jcommander manual: https://jcommander.org/
+
+#### day06 Unit-tests
+
+https://www.youtube.com/watch?v=W1INR0I3FCo&ab_channel=dmdev
 
 #### rush00
 
