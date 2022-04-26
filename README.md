@@ -80,6 +80,8 @@ Jcommander manual: https://jcommander.org/
 
 Guide to JUnit 5 Parameterized Tests: https://www.baeldung.com/parameterized-tests-junit-5
 
+Assertions in JUnit 4 and JUnit 5: https://www.baeldung.com/junit-assertions
+
 Курс JUnit 5: https://www.youtube.com/watch?v=W1INR0I3FCo&ab_channel=dmdev
 
 #### rush00
