@@ -80,6 +80,10 @@ Jcommander manual: https://jcommander.org/
 
 #### day06 Unit-tests
 
+```bash
+mvn clean compile test
+```
+
 Guide to JUnit 5 Parameterized Tests: https://www.baeldung.com/parameterized-tests-junit-5
 
 Assertions in JUnit 4 and JUnit 5: https://www.baeldung.com/junit-assertions
