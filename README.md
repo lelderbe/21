@@ -78,7 +78,9 @@ Jcommander manual: https://jcommander.org/
 
 #### day06 Unit-tests
 
-https://www.youtube.com/watch?v=W1INR0I3FCo&ab_channel=dmdev
+Guide to JUnit 5 Parameterized Tests: https://www.baeldung.com/parameterized-tests-junit-5
+
+Курс JUnit 5: https://www.youtube.com/watch?v=W1INR0I3FCo&ab_channel=dmdev
 
 #### rush00
 
