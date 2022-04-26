@@ -81,7 +81,7 @@ Jcommander manual: https://jcommander.org/
 #### day06 Unit-tests
 
 ```bash
-mvn clean compile test
+$ mvn clean compile test
 ```
 
 Guide to JUnit 5 Parameterized Tests: https://www.baeldung.com/parameterized-tests-junit-5
