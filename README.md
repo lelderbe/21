@@ -94,6 +94,8 @@ Assertions in JUnit 4 and JUnit 5: https://www.baeldung.com/junit-assertions
 
 Finding All Classes in a Java Package: https://www.baeldung.com/java-find-all-classes-in-package
 
+Reflection API. Введение: https://www.youtube.com/watch?v=2E0IznSZJa4&ab_channel=dmdev
+
 #### rush00
 
 How to Create an Executable JAR with Maven: https://www.baeldung.com/executable-jar-with-maven
