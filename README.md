@@ -90,6 +90,10 @@ Assertions in JUnit 4 and JUnit 5: https://www.baeldung.com/junit-assertions
 
 Курс JUnit 5: https://www.youtube.com/watch?v=W1INR0I3FCo&ab_channel=dmdev
 
+#### day07 Reflection
+
+Finding All Classes in a Java Package: https://www.baeldung.com/java-find-all-classes-in-package
+
 #### rush00
 
 How to Create an Executable JAR with Maven: https://www.baeldung.com/executable-jar-with-maven
