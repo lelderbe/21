@@ -96,6 +96,10 @@ Finding All Classes in a Java Package: https://www.baeldung.com/java-find-all-cl
 
 Reflection API. Введение: https://www.youtube.com/watch?v=2E0IznSZJa4&ab_channel=dmdev
 
+#### day08 Spring
+
+Spring. 1. Введение: https://www.youtube.com/watch?v=bxgMPZUUdSU
+
 #### rush00
 
 How to Create an Executable JAR with Maven: https://www.baeldung.com/executable-jar-with-maven
