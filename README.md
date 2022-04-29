@@ -100,7 +100,7 @@ Reflection API. Введение: https://www.youtube.com/watch?v=2E0IznSZJa4&ab
 
 Spring. 1. Введение: https://www.youtube.com/watch?v=bxgMPZUUdSU
 
-Spring для начинающих: https://www.youtube.com/playlist?list=PLqj7-hRTFl_p-t5F2zSUlG6_9UIoE2r70
+🔥 Spring для начинающих: https://www.youtube.com/playlist?list=PLqj7-hRTFl_p-t5F2zSUlG6_9UIoE2r70
 
 #### rush00
 
