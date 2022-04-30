@@ -102,6 +102,10 @@ Spring. 1. Введение: https://www.youtube.com/watch?v=bxgMPZUUdSU
 
 🔥 Spring для начинающих: https://www.youtube.com/playlist?list=PLqj7-hRTFl_p-t5F2zSUlG6_9UIoE2r70
 
+#### day09
+
+JavaRush - Классы Socket и ServerSocket в Java: https://javarush.ru/groups/posts/654-klassih-socket-i-serversocket-ili-allo-server-tih-menja-slihshishjh
+
 #### rush00
 
 How to Create an Executable JAR with Maven: https://www.baeldung.com/executable-jar-with-maven
