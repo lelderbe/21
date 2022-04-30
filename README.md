@@ -66,7 +66,7 @@ ex04 test string: "" "ab" "aaaaaaaaaaab" "ддд гвба яю" "aaaaaaaaaaabbbb
 
 Producer-Consumer: https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
 
-#### day04
+#### day04 JCommander, JColor
 
 чтение bmp: BufferedImage, Color
 
