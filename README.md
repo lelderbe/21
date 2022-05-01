@@ -115,6 +115,10 @@ How to Create an Executable JAR with Maven: https://www.baeldung.com/executable-
 mvn archetype:generate -DgroupId=rush00 -DartifactId=Game -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 
+#### rush01
+
+JavaFX: Getting Started with JavaFX: https://docs.oracle.com/javase/8/javafx/get-started-tutorial/hello_world.htm
+
 ## Inception
 
     Цель проекта - поднять три контейнера (БД, nginx и php-fpm, работающий с php-файлами) на виртуальной машине.
