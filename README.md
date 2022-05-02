@@ -108,6 +108,8 @@ JavaRush - Классы Socket и ServerSocket в Java: https://javarush.ru/grou
 
 #### rush00
 
+Установка Maven на Mac: https://www.youtube.com/watch?v=gubnBvfBmYQ
+
 How to Create an Executable JAR with Maven: https://www.baeldung.com/executable-jar-with-maven
 
 Сгенерировать чистый maven-проект
