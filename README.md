@@ -54,6 +54,40 @@ Subjects, checklists: https://github.com/Preposterone/java_piscine_21 https://gi
 
 Лекции от участника бассейна: https://www.youtube.com/channel/UC5uU5-C19oEPLWIvyo3a1cQ/videos
 
+<details>
+  <summary>Собрать jar с зависимостями и с определённым именем</summary>
+```bash
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <executions>
+          <execution>
+            <phase>package</phase>
+            <goals>
+              <goal>single</goal>
+            </goals>
+            <configuration>
+              <finalName>socket-client</finalName>
+              <appendAssemblyId>false</appendAssemblyId>
+              <archive>
+                <manifest>
+                  <mainClass>edu.school21.sockets.app.Main</mainClass>
+                </manifest>
+              </archive>
+              <descriptorRefs>
+                <descriptorRef>jar-with-dependencies</descriptorRef>
+              </descriptorRefs>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+```
+</details>
+
 #### day00 Primitives
 
 ex01 test cases: -1 0 1 (error) 2 (true 1) 3 (true 1)
