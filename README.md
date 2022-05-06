@@ -98,6 +98,10 @@ ex02 test cases: 10 (0) 20 (1) 42 (0)
 
 ex04 test string: "" "ab" "aaaaaaaaaaab" "ддд гвба яю" "aaaaaaaaaaabbbbbbbbbbbddddddggtrhjbvnml;vckbtpohdfklhdfkjgl;dsghdgkhlgh"
 
+#### day01 OOP/Collections - Singleton, ArrayList, LinkedList
+
+#### day02 IO, Files
+
 #### day03 Multithreading
 
 Producer-Consumer: https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
@@ -113,6 +117,8 @@ read file from resource: https://www.amitph.com/java-read-file-from-resources-fo
 Creating an Executable Jar File: https://www.skylit.com/javamethods/faqs/createjar.html
 
 Jcommander manual: https://jcommander.org/
+
+#### day05 SQL/JDBC
 
 #### day06 Unit-tests
 
@@ -155,7 +161,7 @@ mvn archetype:generate -DgroupId=rush00 -DartifactId=Game -DarchetypeArtifactId=
 
 #### rush01
 
-JavaFX: Getting Started with JavaFX: https://docs.oracle.com/javase/8/javafx/get-started-tutorial/hello_world.htm
+Getting Started with JavaFX: https://docs.oracle.com/javase/8/javafx/get-started-tutorial/hello_world.htm
 
 ## Inception
 
