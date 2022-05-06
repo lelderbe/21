@@ -56,6 +56,7 @@ Subjects, checklists: https://github.com/Preposterone/java_piscine_21 https://gi
 
 <details>
   <summary>Собрать jar с зависимостями и с определённым именем</summary>
+
 ```bash
   <build>
     <plugins>
@@ -86,6 +87,7 @@ Subjects, checklists: https://github.com/Preposterone/java_piscine_21 https://gi
     </plugins>
   </build>
 ```
+
 </details>
 
 #### day00 Primitives
