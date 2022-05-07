@@ -2,7 +2,7 @@
 
 Moulinette https://moulinette.msk.21-school.ru/
 
-Калькулятор уровней и опыта: https://42evaluators.com/calculator
+Калькуляторы уровней и опыта: https://42evaluators.com/calculator https://42.tbailleu.dev/
 
 FAQ Школы 21 для новичков и не очень https://github.com/daniiomir/faq_for_school_21
 
