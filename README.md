@@ -4,6 +4,30 @@ Moulinette https://moulinette.msk.21-school.ru/
 
 Калькуляторы уровней и опыта: https://42evaluators.com/calculator https://42.tbailleu.dev/
 
+<details>
+  <summary>Мои расчёты</summary>
+
+```bash
+  462 XP for 0 -> 1
+ 2226 XP for 1 -> 2
+ 3197 XP for 2 -> 3
+ 5892 XP for 3 -> 4
+17440 XP for 4 -> 5
+17038 XP for 5 -> 6
+17304 XP for 6 -> 7
+10781 XP for 7 -> 8
+11143 XP for 8 -> 9
+ 9517 XP for 9 -> 10
+10630 XP for 10 -> 11
+18816 XP for 11 -> 12
+21336 XP for 12 -> 13
+24150 XP for 13 -> 14
+27384 XP for 14 -> 15
+31038 XP for 15 -> 16
+```
+    
+</details>
+
 FAQ Школы 21 для новичков и не очень https://github.com/daniiomir/faq_for_school_21
 
 amatilda's memory_leaks_manual https://github.com/daniiomir/faq_for_school_21/blob/master/docs/memory_leaks_amatilda.pdf
