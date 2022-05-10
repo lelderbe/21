@@ -64,11 +64,17 @@ $ leaks --atExit -- ./a.out
 
 # Проекты и ресурсы по ним
 
-[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap) | [Philosophers](#Philosophers) | [C++](#c) | [Inception](#Inception) | [Java Piscine](#java-piscine)
+[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap) | [Philosophers](#Philosophers) | [C++](#c) | [Inception](#Inception) | [Java Piscine](#java-piscine) | [ft_containers](#ft_containers)
 
 Лекции без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
 
 Чеклисты: school21-checklists https://github.com/mharriso/school21-checklists https://github.com/caecitasminimus/school21-checklists https://github.com/brazhenko/school21-checklists
+
+## ft_containers
+
+Лекция: https://www.youtube.com/watch?v=fXfPZRgWP-s
+
+The choice between typename and class: https://mariusbancila.ro/blog/2021/03/15/typename-or-class/
 
 ## Java Piscine
 
