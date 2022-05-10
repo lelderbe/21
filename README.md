@@ -76,6 +76,10 @@ $ leaks --atExit -- ./a.out
 
 The choice between typename and class: https://mariusbancila.ro/blog/2021/03/15/typename-or-class/
 
+C++ Reference: http://www.cplusplus.com/reference/
+
+Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
+
 ## Java Piscine
 
 Subjects, checklists: https://github.com/Preposterone/java_piscine_21 https://github.com/ruslan16/JavaPiscine42/tree/master/subject%2Bchecklist
