@@ -64,11 +64,15 @@ $ leaks --atExit -- ./a.out
 
 # Проекты и ресурсы по ним
 
-[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap) | [Philosophers](#Philosophers) | [C++](#c) | [Inception](#Inception) | [Java Piscine](#java-piscine) | [ft_containers](#ft_containers)
+[libft](#libft) | [get_next_line](#get_next_line) | [ft_printf](#ft_printf) | [minitalk](#minitalk) | [ft_server](#ft_server) | [minishell](#minishell) | [ft_services](#ft_services) | [cub3d](#cub3d) | [libasm](#libasm) | [push_swap](#push_swap) | [Philosophers](#Philosophers) | [C++](#c) | [Inception](#Inception) | [Java Piscine](#java-piscine) | [ft_containers](#ft_containers) | [Python Django Piscine](#python-django-piscine)
 
 Лекции без спойлеров: #coding_wiki https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8
 
 Чеклисты: school21-checklists https://github.com/mharriso/school21-checklists https://github.com/caecitasminimus/school21-checklists https://github.com/brazhenko/school21-checklists
+
+## Python Django Piscine
+
+Subjects: https://github.com/JaeSeoKim/42piscine_python_django/tree/master/files
 
 ## ft_containers
 
