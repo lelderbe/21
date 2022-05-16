@@ -74,6 +74,12 @@ $ leaks --atExit -- ./a.out
 
 Subjects: https://github.com/JaeSeoKim/42piscine_python_django/tree/master/files
 
+#### day00 Web basics: HTTP, HTML, CSS, JS
+
+W3C validation: https://validator.w3.org/#validate_by_input
+
+#### day01 Python basics
+
 ## ft_containers
 
 Лекция: https://www.youtube.com/watch?v=fXfPZRgWP-s
