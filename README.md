@@ -78,7 +78,11 @@ Subjects: https://github.com/JaeSeoKim/42piscine_python_django/tree/master/files
 
 W3C validation: https://validator.w3.org/#validate_by_input
 
-#### day01 Python basics
+#### day01 Python basics: types, I/O, dict
+
+#### day02 OOP
+
+Built-in Functions vars, globals: https://docs.python.org/3/library/functions.html
 
 ## ft_containers
 
