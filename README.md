@@ -82,6 +82,8 @@ W3C validation: https://validator.w3.org/#validate_by_input
 
 #### day02 OOP
 
+#### day03 Libraries
+
 Built-in Functions vars, globals: https://docs.python.org/3/library/functions.html
 
 ## ft_containers
