@@ -82,6 +82,8 @@ W3C validation: https://validator.w3.org/#validate_by_input
 
 #### day02 OOP
 
+Built-in Functions vars, globals: https://docs.python.org/3/library/functions.html
+
 #### day03 Libraries
 
 ```bash
@@ -89,9 +91,27 @@ W3C validation: https://validator.w3.org/#validate_by_input
 python3 -m pip help
 python3 -m pip install help
 
-```
+# create virtual environment
+python3 -m venv venv
 
-Built-in Functions vars, globals: https://docs.python.org/3/library/functions.html
+# activate it
+source venv/bin/activate
+
+# deactivate
+deactivate
+
+# find packets here: https://pypi.org/
+
+# install
+pip install <package>
+
+# make dependencies file
+pip freeze > requirements.txt
+
+# install packets from requirements.txt
+pip install -r requirements.txt
+
+```
 
 ## ft_containers
 
