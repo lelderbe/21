@@ -84,6 +84,13 @@ W3C validation: https://validator.w3.org/#validate_by_input
 
 #### day03 Libraries
 
+```bash
+# pip options
+python3 -m pip help
+python3 -m pip install help
+
+```
+
 Built-in Functions vars, globals: https://docs.python.org/3/library/functions.html
 
 ## ft_containers
