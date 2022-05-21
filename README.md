@@ -136,6 +136,27 @@ pip install -U pip
 </details>
 
 #### day04 Django
+  
+Writing your first Django app Tutorial: https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+
+```bash
+# create virtual environment
+python3 -v venv venv
+source venv/bin/activate
+
+# install packages
+pip install -r requirements.txt
+
+# create new project 'd04'
+django-admin startproject d04
+cd d04
+
+# create application 'ex00'
+python manage.py startapp ex00
+
+# start server (project)
+python manage.py runserver
+```
 
 ## ft_containers
 
