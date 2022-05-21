@@ -110,8 +110,9 @@ pip freeze > requirements.txt
 
 # install packets from requirements.txt
 pip install -r requirements.txt
-
 ```
+
+requests quickstart: https://docs.python-requests.org/en/latest/user/quickstart/
 
 #### day04 Django
 
