@@ -74,6 +74,8 @@ $ leaks --atExit -- ./a.out
 
 Subjects: https://github.com/JaeSeoKim/42piscine_python_django/tree/master/files
 
+A Byte of Python: https://disk.yandex.ru/i/_3mlJ8W-_mSSkw
+
 #### day00 Web basics: HTTP, HTML, CSS, JS
 
 W3C validation: https://validator.w3.org/#validate_by_input
