@@ -139,6 +139,8 @@ pip install -U pip
   
 Writing your first Django app Tutorial: https://docs.djangoproject.com/en/4.0/intro/tutorial01/
 
+Built-in template tags and filters: https://docs.djangoproject.com/en/4.0/ref/templates/builtins/
+
 ```bash
 # create virtual environment
 python3 -v venv venv
