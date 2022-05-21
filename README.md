@@ -76,6 +76,8 @@ Subjects: https://github.com/JaeSeoKim/42piscine_python_django/tree/master/files
 
 A Byte of Python: https://disk.yandex.ru/i/_3mlJ8W-_mSSkw
 
+🔥 Python модули и пакеты, if __name__ == "__main__" и многое другое: https://www.youtube.com/watch?v=bTjvm7Zz2wU&ab_channel=pythonsamurai
+
 #### day00 Web basics: HTTP, HTML, CSS, JS
 
 W3C validation: https://validator.w3.org/#validate_by_input
@@ -107,14 +109,19 @@ deactivate
 # install
 pip install <package>
 
-# make dependencies file
+# make dependencies file, but it's a bad practice: will add every dependent packages too. Better to add only root packages manually
 pip freeze > requirements.txt
 
 # install packets from requirements.txt
 pip install -r requirements.txt
+
+# update pip
+pip install -U pip
 ```
 
 requests quickstart: https://docs.python-requests.org/en/latest/user/quickstart/
+
+Python: основы работы с вирутальным окружением virtualenv (venv): https://www.youtube.com/watch?v=P5JAskB55MM&ab_channel=pythonsamurai
 
 #### day04 Django
 
