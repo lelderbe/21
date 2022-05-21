@@ -90,11 +90,16 @@ Built-in Functions vars, globals: https://docs.python.org/3/library/functions.ht
 
 #### day03 Libraries
 
-```bash
-# pip options
-python3 -m pip help
-python3 -m pip install help
+requests quickstart: https://docs.python-requests.org/en/latest/user/quickstart/
 
+Python: основы работы с вирутальным окружением virtualenv (venv): https://www.youtube.com/watch?v=P5JAskB55MM&ab_channel=pythonsamurai
+
+Виртуальное окружение в Python | Менеджер пакетов PIP | Файл requirements.txt: https://www.youtube.com/watch?v=rsG1Y5k-9jo&ab_channel=PythonToday
+
+<details>
+  <summary>Команды</summary>
+
+```bash
 # create virtual environment
 python3 -m venv venv
 
@@ -104,10 +109,20 @@ source venv/bin/activate
 # deactivate
 deactivate
 
+# pip options
+pip help
+pip install help
+
 # find packets here: https://pypi.org/
 
 # install
 pip install <package>
+
+# uninstall
+pip uninstall <package> -y
+
+# update
+pip install -U <package>
 
 # make dependencies file, but it's a bad practice: will add every dependent packages too. Better to add only root packages manually
 pip freeze > requirements.txt
@@ -118,12 +133,7 @@ pip install -r requirements.txt
 # update pip
 pip install -U pip
 ```
-
-requests quickstart: https://docs.python-requests.org/en/latest/user/quickstart/
-
-Python: основы работы с вирутальным окружением virtualenv (venv): https://www.youtube.com/watch?v=P5JAskB55MM&ab_channel=pythonsamurai
-
-Виртуальное окружение в Python | Менеджер пакетов PIP | Файл requirements.txt: https://www.youtube.com/watch?v=rsG1Y5k-9jo&ab_channel=PythonToday
+</details>
 
 #### day04 Django
 
