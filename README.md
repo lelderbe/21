@@ -139,6 +139,8 @@ pip install -U pip
   
 Writing your first Django app Tutorial: https://docs.djangoproject.com/en/4.0/intro/tutorial01/
 
+Твой первый проект на Django! https://tutorial.djangogirls.org/ru/django_start_project/
+
 Built-in template tags and filters: https://docs.djangoproject.com/en/4.0/ref/templates/builtins/
 
 ```bash
