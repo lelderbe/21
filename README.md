@@ -123,6 +123,8 @@ requests quickstart: https://docs.python-requests.org/en/latest/user/quickstart/
 
 Python: основы работы с вирутальным окружением virtualenv (venv): https://www.youtube.com/watch?v=P5JAskB55MM&ab_channel=pythonsamurai
 
+Виртуальное окружение в Python | Менеджер пакетов PIP | Файл requirements.txt: https://www.youtube.com/watch?v=rsG1Y5k-9jo&ab_channel=PythonToday
+
 #### day04 Django
 
 ## ft_containers
