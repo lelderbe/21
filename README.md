@@ -162,6 +162,10 @@ python manage.py startapp ex00
 python manage.py runserver
 ```
 
+#### day05 Databases, ORM
+
+Psycopg Basic module usage: https://www.psycopg.org/docs/usage.html
+  
 ## ft_containers
 
 Лекция: https://www.youtube.com/watch?v=fXfPZRgWP-s
