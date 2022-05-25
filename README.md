@@ -165,7 +165,21 @@ python manage.py runserver
 #### day05 Databases, ORM
 
 Psycopg Basic module usage: https://www.psycopg.org/docs/usage.html
-  
+
+#### day06 Sessions, django-bootstrap3
+
+How to use sessions: https://docs.djangoproject.com/en/4.0/topics/http/sessions/
+
+Django Session Example: https://www.javatpoint.com/django-session
+
+```bash
+# migrate
+$ python manage.py migrate sessions
+
+# revert migration
+$ python manage.py migrate sessions zero
+```
+
 ## ft_containers
 
 Лекция: https://www.youtube.com/watch?v=fXfPZRgWP-s
